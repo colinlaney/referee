@@ -1,0 +1,78 @@
+html {
+    max-width: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+body {
+    margin: 1px;
+}
+
+
+
+table {
+    border-collapse: collapse;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+
+#article_table {
+    border: 1px solid gray;
+    /*width: 100%;*/
+}
+
+#article_table .score, .specialists {
+    white-space:pre
+}
+
+#article_table tr:nth-child(odd) {
+    background: #efefef;
+}
+
+#article_table td {
+    border-left: 1px solid gray;
+}
+
+
+
+::-scrollbar-track {
+	background-color: rgba(0,0,0,0.0);
+    border: 0px;
+    border-radius: 0px;
+}
+
+::-scrollbar * {
+    background:transparent;
+}
+
+::-scrollbar :hover  ::-webkit-scrollbar-thumb {
+    background:rgba(0,0,0,0.5);
+}
+
+::-webkit-scrollbar {
+	width: 5px;
+	background-color: rgba(0,0,0,0.0);
+    border: 0px;
+    border-radius: 0px;
+    background:rgba(0,0,0,0.1);
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: rgba(0,0,0,0.2);
+    border: 0px;
+    border-radius: 2px;
+    background:rgba(0,0,0,0.1);
+  opacity: 1;
+  -webkit-transition: all 2.5s;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  -webkit-transition: all 2.5s;
+}
+
