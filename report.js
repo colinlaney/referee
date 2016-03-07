@@ -1,16 +1,24 @@
-var filespec = "BC_A_wos_idf_combined_cosine_concepts.json"
+var filespec = "arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-2_subcluster_1of7_cluster-1of6.json"
 
 d3.json(filespec, show_articles);
 
-function show_articles(specialists){
-    var specialists = Object.keys(specialists).map(key => specialists[key]);
+function show_articles(articles){
+    var articles = Object.keys(articles).map(key => articles[key]);
+    console.log(articles);
+    articles = articles.filter(function(d) {
+        var authors = d["authors"];
+        var specs = Array(d["specialists"]).filter(auth => auth[Object.keys(auth)[9]][1] >= 5);
+        // specs = Array(d["specialists"]).filter(auth => Object.keys(auth).map(key => auth[key][1]).every(a => a >= 5));
+        return specs.length;
+    });
+    console.log(articles.length);
     var div = d3.select("#articles");
     div.select("#article_table").remove();
     var table = div.append("table");
     table.attr("id", "article_table");
     table.append("caption").html('<h1>Potential referees for the articles</h1>');
     table.selectAll("th")
-        .data(['Arxiv ID', 'Title', 'Score', 'Specialists'])
+        .data(['Arxiv ID', 'Title', 'Specialists', 'Score', '#Publications', '#Authors'])
         .enter()
         .append("th")
         .style("border", "1px solid gray")
@@ -18,31 +26,29 @@ function show_articles(specialists){
         .style("text-align", "center")
         .text(function(d){return d});
     var tr = table.append('tbody').selectAll("tr")
-        .data(specialists)
+        .data(articles)
         .enter()
         .append("tr");
     tr.append("td")
-        .attr("id", function(d, i) {return "a_id_" + (i+1).toString()})
-        .text(function(d) {return d.arxiv_id});
+        .attr("id", (d, i) => "a_id_" + (i+1).toString())
+        .text(d => d.arxiv_id);
     tr.append("td")
-        .attr("id", function(d, i) {return "t_id_" + (i+1).toString()})
-        .text(function(d) {return d.title});
+        .attr("id", (d, i) => "t_id_" + (i+1).toString())
+        .text(d => d.title);
     tr.append("td")
-        .attr("id", function(d, i) {return "cat_id_" + (i+1).toString()})
-        .attr("class", "score")
-        .text(function(d) {
-            var score = Array();
-            for(var key in d["specialists"]) {
-                var value = d["specialists"][key];
-                score.push(value.toString().slice(0, 6));
-            }
-            return Object.keys(d["specialists"]).map(key => d["specialists"][key].toString().slice(0, 6)).reverse().join('\n')
-            // return score.reverse().join('\n');
-        });
-    tr.append("td")
-        .attr("id", function(d, i) {return "cats_id_" + (i+1).toString()})
+        .attr("id", (d, i) => "spec_id_" + (i+1).toString())
         .attr("class", "specialists")
-        .html(function(d) {
-                return Object.keys(d["specialists"]).map(key => (d["authors"].indexOf(key) >= 0) ? '<b style="color:#0">'+key+'</b>' : key).reverse().join('\n').split('_').join(' ');
-        });
+        .html(d => Object.keys(d["specialists"]).reverse().map(key => (d["authors"].indexOf(key) >= 0) ? '<b style="color:#0">'+key+'</b>' : key).join('\n').split('_').join(' '));
+    tr.append("td")
+        .attr("id", function(d, i) {return "score_id_" + (i+1).toString()})
+        .attr("class", "score")
+        .text(d => Object.keys(d["specialists"]).reverse().map(key => d["specialists"][key][0].toString().slice(0, 6)).join('\n'));
+    tr.append("td")
+        .attr("id", function(d, i) {return "pub_num_" + (i+1).toString()})
+        .attr("class", "publications")
+        .text(d => Object.keys(d["specialists"]).reverse().map(key => d["specialists"][key][1].toString()).join('\n'));
+    tr.append("td")
+        .attr("id", function(d, i) {return "auth_num_" + (i+1).toString()})
+        .attr("class", "authors")
+        .text(d => Object.keys(d["specialists"]).reverse().map(key => d["specialists"][key][2].toString())[0]);
     }

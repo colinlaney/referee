@@ -26,8 +26,12 @@ th, td {
     /*width: 100%;*/
 }
 
-#article_table .score, .specialists {
-    white-space:pre
+#article_table .score, .publications, .authors, .specialists {
+    white-space:pre;
+}
+
+.authors, .publications {
+    text-align: center;
 }
 
 #article_table tr:nth-child(odd) {
