@@ -1,4 +1,4 @@
-var filespec = "arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-2_top5.json"
+var filespec = "BC_A_wos_intersect_arxivPhys2013_wos.json"
 
 d3.json(filespec, show_articles);
 
