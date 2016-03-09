@@ -1,4 +1,4 @@
-var filespec = "arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-2_subcluster_1of7_cluster-1of6.json"
+var filespec = "arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-2_top5.json"
 
 d3.json(filespec, show_articles);
 
@@ -7,8 +7,9 @@ function show_articles(articles){
     console.log(articles);
     articles = articles.filter(function(d) {
         var authors = d["authors"];
-        var specs = Array(d["specialists"]).filter(auth => auth[Object.keys(auth)[9]][1] >= 5);
-        // specs = Array(d["specialists"]).filter(auth => Object.keys(auth).map(key => auth[key][1]).every(a => a >= 5));
+        var keys = Object.keys(d["specialists"]);
+        var specialists = Object.keys(d["specialists"]);
+        var specs = specialists.filter(spec => authors.some(auth => auth == spec));
         return specs.length;
     });
     console.log(articles.length);
