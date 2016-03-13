@@ -1,4 +1,4 @@
-var filespec = "BC_A_wos_intersect_arxivPhys2013_wos.json"
+var filespec = "arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-2_experts_score.json"
 
 d3.json(filespec, show_articles);
 
@@ -7,10 +7,11 @@ function show_articles(articles){
     console.log(articles);
     articles = articles.filter(function(d) {
         var authors = d["authors"];
-        var keys = Object.keys(d["specialists"]);
-        var specialists = Object.keys(d["specialists"]);
-        var specs = specialists.filter(spec => authors.some(auth => auth == spec));
-        return specs.length;
+        var keys = Object.keys(d["experts"]);
+        var experts = Object.keys(d["experts"]).slice(keys.length-5, keys.length);
+        var specs = experts.filter(spec => authors.some(auth => auth == spec));
+        return true;
+        //return specs.length;
     });
     console.log(articles.length);
     var div = d3.select("#articles");
@@ -19,7 +20,8 @@ function show_articles(articles){
     table.attr("id", "article_table");
     table.append("caption").html('<h1>Potential referees for the articles</h1>');
     table.selectAll("th")
-        .data(['Arxiv ID', 'Title', 'Specialists', 'Score', '#Publications', '#Authors'])
+        // .data(['Arxiv ID', 'Title', 'Specialists', 'Score', '#Publications', '#Authors'])
+        .data(['Arxiv ID', 'Title', 'Experts', 'H-index'])
         .enter()
         .append("th")
         .style("border", "1px solid gray")
@@ -39,17 +41,19 @@ function show_articles(articles){
     tr.append("td")
         .attr("id", (d, i) => "spec_id_" + (i+1).toString())
         .attr("class", "specialists")
-        .html(d => Object.keys(d["specialists"]).reverse().map(key => (d["authors"].indexOf(key) >= 0) ? '<b style="color:#0">'+key+'</b>' : key).join('\n').split('_').join(' '));
+        .html(d => Object.keys(d["experts"]).reverse().map(key => (d["authors"].indexOf(key) >= 0) ? '<b style="color:#0">'+key+'</b>' : key).join('\n').split('_').join(' '));
+        // .html(d => Object.keys(d["specialists"]).reverse().map(key => (d["authors"].indexOf(key) >= 0) ? '<b style="color:#0">'+key+'</b>' : key).join('\n').split('_').join(' '));
     tr.append("td")
         .attr("id", function(d, i) {return "score_id_" + (i+1).toString()})
         .attr("class", "score")
-        .text(d => Object.keys(d["specialists"]).reverse().map(key => d["specialists"][key][0].toString().slice(0, 6)).join('\n'));
-    tr.append("td")
-        .attr("id", function(d, i) {return "pub_num_" + (i+1).toString()})
-        .attr("class", "publications")
-        .text(d => Object.keys(d["specialists"]).reverse().map(key => d["specialists"][key][1].toString()).join('\n'));
-    tr.append("td")
-        .attr("id", function(d, i) {return "auth_num_" + (i+1).toString()})
-        .attr("class", "authors")
-        .text(d => Object.keys(d["specialists"]).reverse().map(key => d["specialists"][key][2].toString())[0]);
+        .text(d => Object.keys(d["experts"]).reverse().map(key => d["experts"][key].toString().slice(0, 6)).join('\n'));
+        // .text(d => Object.keys(d["specialists"]).reverse().map(key => d["specialists"][key][0].toString().slice(0, 6)).join('\n'));
+    // tr.append("td")
+    //     .attr("id", function(d, i) {return "pub_num_" + (i+1).toString()})
+    //     .attr("class", "publications")
+    //     .text(d => Object.keys(d["specialists"]).reverse().map(key => d["specialists"][key][1].toString()).join('\n'));
+    // tr.append("td")
+    //     .attr("id", function(d, i) {return "auth_num_" + (i+1).toString()})
+    //     .attr("class", "authors")
+    //     .text(d => Object.keys(d["specialists"]).reverse().map(key => d["specialists"][key][2].toString())[0]);
     }
