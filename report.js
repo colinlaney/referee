@@ -18,7 +18,7 @@ function show_articles(articles){
     div.select("#article_table").remove();
     var table = div.append("table");
     table.attr("id", "article_table");
-    table.append("caption").html('<h1>Potential referees for the articles</h1>');
+    table.append("caption").html('<h1>Potential referees for 31 995 articles</h1><h2>Level 3 of hierarchy, dataset arxivPhys2013_wos</h2><h3> idf, aggregated</h3>');
     table.selectAll("th")
         // .data(['Arxiv ID', 'Title', 'Specialists', 'Score', '#Publications', '#Authors'])
         .data(['Arxiv ID', 'Title', 'Score', 'Specialists', 'Experts', 'h', 'Citations'])
