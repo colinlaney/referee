@@ -1,4 +1,4 @@
-var filespec = "arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-3_experts_spec.json"
+var filespec = "arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-3_experts_spec_BC_A_wos.json"
 
 d3.json(filespec, show_articles);
 
@@ -18,7 +18,7 @@ function show_articles(articles){
     div.select("#article_table").remove();
     var table = div.append("table");
     table.attr("id", "article_table");
-    table.append("caption").html('<h1>Potential referees for 31 995 articles</h1><h2>Level 3 of hierarchy, dataset arxivPhys2013_wos</h2><h3> idf, aggregated</h3>');
+    table.append("caption").html('<h1>Potential referees for 1.5k articles</h1><h2>Level 3 of hierarchy, dataset BC_A_wos, datapool arxivPhys2013_wos</h2><h3> idf, aggregated</h3>');
     table.selectAll("th")
         // .data(['Arxiv ID', 'Title', 'Specialists', 'Score', '#Publications', '#Authors'])
         .data(['Arxiv ID', 'Title', 'Score', 'Specialists', 'Experts', 'h', 'Citations'])
@@ -37,7 +37,7 @@ function show_articles(articles){
         .text(d => d.arxiv_id);
     tr.append("td")
         .attr("id", (d, i) => "t_id_" + (i+1).toString())
-        .text(d => d.title);
+        .html(d => d.into ? '<b>'+d.title+'</b>' : d.title);
     tr.append("td")
         .attr("id", function(d, i) {return "score_id_" + (i+1).toString()})
         .attr("class", "score")
