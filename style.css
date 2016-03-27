@@ -21,12 +21,19 @@ th, td {
     text-align: left;
 }
 
-#article_table {
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+}
+
+#articles_table {
     border: 1px solid gray;
     /*width: 100%;*/
 }
 
-#article_table .score, .publications, .authors, .specialists, .experts, .h, .citations {
+#articles_table .score, .publications, .authors, .specialists, .experts, .h, .citations {
     white-space:pre;
 }
 
@@ -38,11 +45,11 @@ th, td {
     text-align: right;
 }
 
-#article_table tr:nth-child(odd) {
+#articles_table tr:nth-child(odd) {
     background: #efefef;
 }
 
-#article_table td {
+#articles_table td {
     border-left: 1px solid gray;
 }
 

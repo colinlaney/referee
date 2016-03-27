@@ -1,26 +1,21 @@
-var filespec = "arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-3_experts_spec_BC_A_wos.json"
-
-d3.json(filespec, show_articles);
+// var file = "arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-5_experts_spec_BC_A_wos.json"
+// d3.json(file, show_articles);
 
 function show_articles(articles){
     var articles = Object.keys(articles).map(key => articles[key]);
     console.log(articles);
-    articles = articles.filter(function(d) {
-        var authors = d["authors"];
-        var keys = Object.keys(d["experts"]);
-        var experts = Object.keys(d["experts"]).slice(keys.length-5, keys.length);
-        var specs = experts.filter(spec => authors.some(auth => auth == spec));
-        return true;
-        //return specs.length;
-    });
+    // articles = articles.filter(function(d) {
+        // var authors = d["authors"];
+        // var keys = Object.keys(d["experts"]);
+        // var experts = Object.keys(d["experts"]).slice(keys.length-5, keys.length);
+        // var specs = experts.filter(spec => authors.some(auth => auth == spec));
+        // return true;
+        // //return specs.length;
+    // });
     console.log(articles.length);
     var div = d3.select("#articles");
-    div.select("#article_table").remove();
-    var table = div.append("table");
-    table.attr("id", "article_table");
-    table.append("caption").html('<h1>Potential referees for 1.5k articles</h1><h2>Level 3 of hierarchy, dataset BC_A_wos, datapool arxivPhys2013_wos</h2><h3> idf, aggregated</h3>');
+    var table = div.select("#articles_table");
     table.selectAll("th")
-        // .data(['Arxiv ID', 'Title', 'Specialists', 'Score', '#Publications', '#Authors'])
         .data(['Arxiv ID', 'Title', 'Score', 'Specialists', 'Experts', 'h', 'Citations'])
         .enter()
         .append("th")
@@ -28,7 +23,8 @@ function show_articles(articles){
         .style("border-radius", "1px solid gray")
         .style("text-align", "center")
         .text(function(d){return d});
-    var tr = table.append('tbody').selectAll("tr")
+    table.select("tbody").remove();
+    var tr = table.append("tbody").selectAll("tr")
         .data(articles)
         .enter()
         .append("tr");
@@ -58,13 +54,4 @@ function show_articles(articles){
         .attr("id", function(d, i) {return "cit_id_" + (i+1).toString()})
         .attr("class", "citations")
         .text(d => Object.keys(d["experts"]).map(key => d["experts"][key][1].toString().slice(0, 6)).join('\n'));
-        // .text(d => Object.keys(d["specialists"]).reverse().map(key => d["specialists"][key][0].toString().slice(0, 6)).join('\n'));
-    // tr.append("td")
-    //     .attr("id", function(d, i) {return "pub_num_" + (i+1).toString()})
-    //     .attr("class", "publications")
-    //     .text(d => Object.keys(d["specialists"]).reverse().map(key => d["specialists"][key][1].toString()).join('\n'));
-    // tr.append("td")
-    //     .attr("id", function(d, i) {return "auth_num_" + (i+1).toString()})
-    //     .attr("class", "authors")
-    //     .text(d => Object.keys(d["specialists"]).reverse().map(key => d["specialists"][key][2].toString())[0]);
     }
