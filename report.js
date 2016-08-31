@@ -16,7 +16,7 @@ function show_articles(articles){
     var div = d3.select("#articles");
     var table = div.select("#articles_table");
     table.selectAll("th")
-        .data(['Arxiv ID', 'Title', 'Score', 'Specialists', 'Experts', 'h', 'Citations'])
+        .data(['Arxiv ID', 'Title', 'Authors in a cluster', 'Author\'s articles in a cluster', 'Score', 'Specialists', 'Experts', 'h', 'Citations'])
         .enter()
         .append("th")
         .style("border", "1px solid gray")
@@ -35,9 +35,17 @@ function show_articles(articles){
         .attr("id", (d, i) => "t_id_" + (i+1).toString())
         .html(d => d.into ? '<b>'+d.title+'</b>' : d.title);
     tr.append("td")
+        .attr("id", function(d, i) {return "auth_id_" + (i+1).toString()})
+        .attr("class", "authors")
+        .text(d => d["specialists"][Object.keys(d["specialists"])[0]][2]);
+    tr.append("td")
+        .attr("id", function(d, i) {return "publications_id_" + (i+1).toString()})
+        .attr("class", "publications")
+        .text(d => Object.keys(d["specialists"]).reverse().map(key => d["specialists"][key][1].toString()).join('\n'));
+    tr.append("td")
         .attr("id", function(d, i) {return "score_id_" + (i+1).toString()})
         .attr("class", "score")
-        .text(d => Object.keys(d["specialists"]).reverse().map(key => d["specialists"][key][0].toString().slice(0, 6)).join('\n'));
+        .text(d => Object.keys(d["specialists"]).reverse().map(key => d["specialists"][key][0].toString().slice(0, 8)).join('\n'));
     tr.append("td")
         .attr("id", function(d, i) {return "specialists_id_" + (i+1).toString()})
         .attr("class", "specialists")

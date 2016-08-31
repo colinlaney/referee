@@ -6,15 +6,19 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.16/d3.min.js" charset="utf-8"></script>
 </head>
 
-<body onload="var file='arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-5_experts_spec_BC_A_wos.json'; d3.json(file, show_articles);">
+<!--body onload="var file='arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-5_experts_spec_BC_A_wos.json'; d3.json(file, show_articles);"-->
+<body onload="var file='BCon2015e4s5_goodIDF.json'; d3.json(file, show_articles);">
 	<div id="articles">
     <table id="articles_table">
       <caption>
-        <h1>Potential referees for 1.5k articles</h1><h2>Level <select onchange="var file='arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-'+this.value+'_experts_spec_BC_A_wos.json'; d3.json(file, show_articles);">
+        <!--h1>Potential referees for 1.5k articles</h1><h2>Level <select onchange="var file='arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-'+this.value+'_experts_spec_BC_A_wos.json'; d3.json(file, show_articles);"-->
+        <h1>Potential referees for 1k articles</h1><h2>Level <select onchange="var file='BCon2015e' + (this.value-1) + 's' + this.value + '_goodIDF.json'; d3.json(file, show_articles);">
+          <option value="2">2</option>
           <option value="3">3</option>
           <option value="4">4</option>
           <option value="5" selected>5</option>
-        </select> of hierarchy, dataset BC_A_wos, datapool arxivPhys2013_wos</h2><h3> idf, aggregated</h3>
+        <!--/select> of hierarchy, dataset BC_A_wos, datapool arxivPhys2013_wos</h2><h3> idf, aggregated</h3-->
+        </select> of hierarchy, dataset BC_A_wos, datapool arxiv2010-2015_wos</h2><h3> idf, aggregated</h3>
       </caption>
     </table>
   </div>
