@@ -7,18 +7,22 @@
 </head>
 
 <!--body onload="var file='arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-5_experts_spec_BC_A_wos.json'; d3.json(file, show_articles);"-->
-<body onload="var file='BCon2015e4s5_goodIDF.json'; d3.json(file, show_articles);">
+<body onload="file='BCon2015e4s5_goodIDF_greater0_aug_clusters_idf_auth.json'; d3.json(file, show_articles);">
 	<div id="articles">
     <table id="articles_table">
       <caption>
         <!--h1>Potential referees for 1.5k articles</h1><h2>Level <select onchange="var file='arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-'+this.value+'_experts_spec_BC_A_wos.json'; d3.json(file, show_articles);"-->
-        <h1>Potential referees for 1k articles</h1><h2>Level <select onchange="var file='BCon2015e' + (this.value-1) + 's' + this.value + '_goodIDF.json'; d3.json(file, show_articles);">
-          <option value="2">2</option>
-          <option value="3">3</option>
-          <option value="4">4</option>
-          <option value="5" selected>5</option>
+        <h1>Potential referees for 1k articles</h1><h2>dataset BC_A_wos, datapool arxiv2010-2015_wos</h2><h3>Level <select onchange="file='BCon2015e' + this.value + '_goodIDF_greater0_aug_clusters_idf_auth.json'; d3.json(file, show_articles);">
+          <!-- <option value="1s2">2 idf</option> -->
+          <option value="2s3">3 idf</option>
+          <option value="3s4">4 idf</option>
+          <option value="4s5" selected>5 idf</option>
+          <!-- <option value="2s3TF">3 tfidf</option>
+          <option value="3s4TF">4 tfidf</option>
+          <option value="4s5TF">5 tfidf</option> -->
         <!--/select> of hierarchy, dataset BC_A_wos, datapool arxivPhys2013_wos</h2><h3> idf, aggregated</h3-->
-        </select> of hierarchy, dataset BC_A_wos, datapool arxiv2010-2015_wos</h2><h3> idf, aggregated</h3>
+        </select></h3>
+        <p>Contains anywhere: <input type="text" id="hand" name="myInput" oninput="str = this.value; d3.json(file, show_articles);";" /></p>
       </caption>
     </table>
   </div>
