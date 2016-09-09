@@ -17,7 +17,7 @@ function contain(article, substr){
 
 function show_articles(articles){
     var articles = Object.keys(articles).filter(key => contain(articles[key], str)).map(key => articles[key]);
-    articles = Object.keys(articles).filter(key => Object.keys(articles[key]["authors"]).length < articles[key]["specialists"][Object.keys(articles[key]["specialists"])[0]][2] && Object.keys(articles[key]["authors"]).length > 1).map(key => articles[key]); // Filter out articles with len(authors) < 2 and len(authors) >= len(authors in a cluster)
+    // articles = Object.keys(articles).filter(key => Object.keys(articles[key]["authors"]).length < articles[key]["specialists"][Object.keys(articles[key]["specialists"])[0]][2] && Object.keys(articles[key]["authors"]).length > 1).map(key => articles[key]); // Filter out articles with len(authors) < 2 and len(authors) >= len(authors in a cluster)
     console.log(articles);
     // articles = articles.filter(function(d) {
         // var authors = d["authors"];
@@ -62,11 +62,11 @@ function show_articles(articles){
     tr.append("td")
         .attr("id", function(d, i) {return "score_id_" + (i+1).toString()})
         .attr("class", "score")
-        .text(d => Object.keys(d["specialists"]).sort((a, b) => d["specialists"][a][0] < d["specialists"][b][0]).map(key => d["specialists"][key][0].toString().slice(0, 8)).join('\n'));
+        .text(d => Object.keys(d["specialists"]).sort((a, b) => d["specialists"][a][0] < d["specialists"][b][0] ? 1 : d["specialists"][a][0] > d["specialists"][b][0] ? -1 : 0).slice(0, 5).map(key => d["specialists"][key][0].toString().slice(0, 8)).join('\n'));
     tr.append("td")
         .attr("id", function(d, i) {return "specialists_id_" + (i+1).toString()})
         .attr("class", "specialists")
-        .html(d => Object.keys(d["specialists"]).sort((a, b) => d["specialists"][a][0] < d["specialists"][b][0]).map(key => (d["authors"].indexOf(key) >= 0) ? '<b style="color:#0">'+key+'</b>' : key).join('\n').split('_').join(' '));
+        .html(d => Object.keys(d["specialists"]).sort((a, b) => d["specialists"][a][0] < d["specialists"][b][0] ? 1 : d["specialists"][a][0] > d["specialists"][b][0] ? -1 : 0).slice(0, 5).map(key => (d["authors"].indexOf(key) >= 0) ? '<b style="color:#0">'+key+'</b>' : key).join('\n').split('_').join(' '));
 
     tr.append("td")
         .attr("id", (d, i) => "auth_id_" + (i+1).toString())

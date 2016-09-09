@@ -1,0 +1,212 @@
+{
+  "40916": {
+    "specialists": {
+      "Yue_B": [
+        0.093462, 
+        1, 
+        2
+      ], 
+      "Chen_X": [
+        0.093462, 
+        1, 
+        2
+      ]
+    }, 
+    "authors": [
+      "Peixoto_T"
+    ], 
+    "experts": {
+      "Teschl_G": [
+        4, 
+        57
+      ], 
+      "Kostenko_A": [
+        4, 
+        40
+      ], 
+      "Sakhnovich_A": [
+        3, 
+        26
+      ], 
+      "Eckhardt_J": [
+        3, 
+        20
+      ], 
+      "Popovych_R": [
+        4, 
+        27
+      ]
+    }, 
+    "arxiv_id": "1310.4377", 
+    "title": "Hierarchical block structures and high-resolution model selection in large networks"
+  }, 
+  "134706": {
+    "specialists": {
+      "Yue_B": [
+        0.066411, 
+        1, 
+        2
+      ], 
+      "Chen_X": [
+        0.066411, 
+        1, 
+        2
+      ]
+    }, 
+    "authors": [
+      "Peixoto_T"
+    ], 
+    "experts": {
+      "Teschl_G": [
+        4, 
+        57
+      ], 
+      "Kostenko_A": [
+        4, 
+        40
+      ], 
+      "Sakhnovich_A": [
+        3, 
+        26
+      ], 
+      "Eckhardt_J": [
+        3, 
+        20
+      ], 
+      "Popovych_R": [
+        4, 
+        27
+      ]
+    }, 
+    "arxiv_id": "1310.4378", 
+    "title": "Efficient Monte Carlo and greedy heuristic for the inference of stochastic block models"
+  }, 
+  "111524": {
+    "specialists": {
+      "Wetterich_C": [
+        0.005255, 
+        1, 
+        2
+      ], 
+      "Shaposhnikov_M": [
+        0.005255, 
+        1, 
+        2
+      ]
+    }, 
+    "authors": [
+      "Palchykov_V", 
+      "Kertesz_J", 
+      "Dunbar_R", 
+      "Kaski_K"
+    ], 
+    "experts": {
+      "Cuesta_A": [
+        14, 
+        479
+      ], 
+      "Padmanabhan_N": [
+        14, 
+        486
+      ], 
+      "Eisenstein_D": [
+        15, 
+        554
+      ], 
+      "Percival_W": [
+        16, 
+        642
+      ], 
+      "Schneider_D": [
+        14, 
+        523
+      ]
+    }, 
+    "arxiv_id": "1208.3953", 
+    "title": "Close relationships: A study of mobile communication records"
+  }, 
+  "115802": {
+    "specialists": {
+      "Yue_B": [
+        0.171898, 
+        1, 
+        2
+      ], 
+      "Chen_X": [
+        0.171898, 
+        1, 
+        2
+      ]
+    }, 
+    "authors": [
+      "Peixoto_T"
+    ], 
+    "experts": {
+      "Teschl_G": [
+        4, 
+        57
+      ], 
+      "Kostenko_A": [
+        4, 
+        40
+      ], 
+      "Sakhnovich_A": [
+        3, 
+        26
+      ], 
+      "Eckhardt_J": [
+        3, 
+        20
+      ], 
+      "Popovych_R": [
+        4, 
+        27
+      ]
+    }, 
+    "arxiv_id": "1409.3059", 
+    "title": "Model selection and hypothesis testing for large-scale network models   with overlapping groups"
+  }, 
+  "121281": {
+    "specialists": {
+      "Yue_B": [
+        0.087995, 
+        1, 
+        2
+      ], 
+      "Chen_X": [
+        0.087995, 
+        1, 
+        2
+      ]
+    }, 
+    "authors": [
+      "Larremore_D", 
+      "Clauset_A", 
+      "Jacobs_A"
+    ], 
+    "experts": {
+      "Teschl_G": [
+        4, 
+        57
+      ], 
+      "Kostenko_A": [
+        4, 
+        40
+      ], 
+      "Sakhnovich_A": [
+        3, 
+        26
+      ], 
+      "Eckhardt_J": [
+        3, 
+        20
+      ], 
+      "Popovych_R": [
+        4, 
+        27
+      ]
+    }, 
+    "arxiv_id": "1403.2933", 
+    "title": "Efficiently inferring community structure in bipartite networks"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "40916": {
+    "specialists": {
+      "Yue_B": [
+        0.059617, 
+        1, 
+        2
+      ], 
+      "Chen_X": [
+        0.059617, 
+        1, 
+        2
+      ]
+    }, 
+    "authors": [
+      "Peixoto_T"
+    ], 
+    "experts": {
+      "Moore_C": [
+        3, 
+        44
+      ], 
+      "Newman_M": [
+        3, 
+        36
+      ], 
+      "Krzakala_F": [
+        3, 
+        46
+      ], 
+      "Zdeborova_L": [
+        3, 
+        23
+      ], 
+      "Peixoto_T": [
+        3, 
+        23
+      ]
+    }, 
+    "arxiv_id": "1310.4377", 
+    "title": "Hierarchical block structures and high-resolution model selection in large networks"
+  }, 
+  "134706": {
+    "specialists": {
+      "Yue_B": [
+        0.046004, 
+        1, 
+        2
+      ], 
+      "Chen_X": [
+        0.046004, 
+        1, 
+        2
+      ]
+    }, 
+    "authors": [
+      "Peixoto_T"
+    ], 
+    "experts": {
+      "Moore_C": [
+        3, 
+        44
+      ], 
+      "Newman_M": [
+        3, 
+        36
+      ], 
+      "Krzakala_F": [
+        3, 
+        46
+      ], 
+      "Zdeborova_L": [
+        3, 
+        23
+      ], 
+      "Peixoto_T": [
+        3, 
+        23
+      ]
+    }, 
+    "arxiv_id": "1310.4378", 
+    "title": "Efficient Monte Carlo and greedy heuristic for the inference of stochastic block models"
+  }, 
+  "115802": {
+    "specialists": {
+      "Yue_B": [
+        0.166785, 
+        1, 
+        2
+      ], 
+      "Chen_X": [
+        0.166785, 
+        1, 
+        2
+      ]
+    }, 
+    "authors": [
+      "Peixoto_T"
+    ], 
+    "experts": {
+      "Moore_C": [
+        3, 
+        44
+      ], 
+      "Newman_M": [
+        3, 
+        36
+      ], 
+      "Krzakala_F": [
+        3, 
+        46
+      ], 
+      "Zdeborova_L": [
+        3, 
+        23
+      ], 
+      "Peixoto_T": [
+        3, 
+        23
+      ]
+    }, 
+    "arxiv_id": "1409.3059", 
+    "title": "Model selection and hypothesis testing for large-scale network models   with overlapping groups"
+  }, 
+  "121281": {
+    "specialists": {
+      "Yue_B": [
+        0.079718, 
+        1, 
+        2
+      ], 
+      "Chen_X": [
+        0.079718, 
+        1, 
+        2
+      ]
+    }, 
+    "authors": [
+      "Larremore_D", 
+      "Clauset_A", 
+      "Jacobs_A"
+    ], 
+    "experts": {
+      "Moore_C": [
+        3, 
+        44
+      ], 
+      "Newman_M": [
+        3, 
+        36
+      ], 
+      "Krzakala_F": [
+        3, 
+        46
+      ], 
+      "Zdeborova_L": [
+        3, 
+        23
+      ], 
+      "Peixoto_T": [
+        3, 
+        23
+      ]
+    }, 
+    "arxiv_id": "1403.2933", 
+    "title": "Efficiently inferring community structure in bipartite networks"
+  }
+}
