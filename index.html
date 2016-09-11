@@ -7,27 +7,31 @@
 </head>
 
 <!--body onload="var file='arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-5_experts_spec_BC_A_wos.json'; d3.json(file, show_articles);"-->
-<body onload="file='BCon2015e4s5_10arts_goodIDF_greater0_aug_clusters_idf_auth.json'; d3.json(file, show_articles);">
+<body onload="file='BConArxivWOSe3s3_goodIDF_greater0_aug_clusters_idf_auth.json'; d3.json(file, show_articles);">
 	<div id="articles">
     <table id="articles_table">
       <caption>
         <!--h1>Potential referees for 1.5k articles</h1><h2>Level <select onchange="var file='arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-'+this.value+'_experts_spec_BC_A_wos.json'; d3.json(file, show_articles);"-->
-        <h1>Potential referees for 1k articles</h1><h2>dataset BC_A_wos + 10 test articles, datapool arxiv2010-2015_wos</h2><h3>Level <select onchange="file='BCon2015e' + this.value + '_goodIDF_greater0_aug_clusters_idf_auth.json'; d3.json(file, show_articles);">
-          <option value="1s2">2 idf</option>
-          <option value="2s3">3 idf</option>
-          <option value="3s4">4 idf</option>
-          <option value="4s5">5 idf</option>
-          <option value="3s3">e3 3 idf</option>
-          <option value="4s4">e4 4 idf</option>
-          <option value="5s5">e5 5 idf</option>
-          <option value="1s2_10arts">experts 1, specialists 2 idf</option>
-          <option value="2s3_10arts">experts 2, specialists 3 idf</option>
-          <option value="3s4_10arts">experts 3, specialists 4 idf</option>
-          <option value="4s5_10arts" selected>experts 4, specialists 5 idf</option>
-          <option value="2s2_10arts">experts 2, specialists 2 idf</option>
-          <option value="3s3_10arts">experts 3, specialists 3 idf</option>
-          <option value="4s4_10arts">experts 4, specialists 4 idf</option>
-          <option value="5s5_10arts">experts 5, specialists 5 idf</option>
+        <h1>Potential referees for 1k articles</h1><h2>dataset BC_A_wos + 10 test articles, datapool arxiv2010-2015_wos + arxiv_wos</h2><h3>Level <select onchange="file='BCon' + this.value + '_goodIDF_greater0_aug_clusters_idf_auth.json'; d3.json(file, show_articles);">
+          <option value="2015e2015e1s2">BC on arxiv2010-2015 experts 1, specialists 2 idf</option>
+          <option value="2015e2s3">BC on arxiv2010-2015 experts 2, specialists 3 idf</option>
+          <option value="2015e3s4">BC on arxiv2010-2015 experts 3, specialists 4 idf</option>
+          <option value="2015e4s5">BC on arxiv2010-2015 experts 4, specialists 5 idf</option>
+          <option value="2015e3s3">BC on arxiv2010-2015 experts 3, specialists 3 idf</option>
+          <option value="2015e4s4">BC on arxiv2010-2015 experts 4, specialists 4 idf</option>
+          <option value="2015e5s5">BC on arxiv2010-2015 experts 5, specialists 5 idf</option>
+          <option value="2015e1s2_10arts">10 articles on arxiv2010-2015 experts 1, specialists 2 idf</option>
+          <option value="2015e2s3_10arts">10 articles on arxiv2010-2015 experts 2, specialists 3 idf</option>
+          <option value="2015e3s4_10arts">10 articles on arxiv2010-2015 experts 3, specialists 4 idf</option>
+          <option value="2015e4s5_10arts">10 articles on arxiv2010-2015 experts 4, specialists 5 idf</option>
+          <option value="2015e2s2_10arts">10 articles on arxiv2010-2015 experts 2, specialists 2 idf</option>
+          <option value="2015e3s3_10arts">10 articles on arxiv2010-2015 experts 3, specialists 3 idf</option>
+          <option value="2015e4s4_10arts">10 articles on arxiv2010-2015 experts 4, specialists 4 idf</option>
+          <option value="2015e5s5_10arts">10 articles on arxiv2010-2015 experts 5, specialists 5 idf</option>
+          <option value="ArxivWOSe2s2">BC on arxiv_WOS experts 2, specialists 2 idf</option>
+          <option value="ArxivWOSe3s3" selected>BC on arxiv_WOS experts 3, specialists 3 idf</option>
+          <option value="ArxivWOSe4s4">BC on arxiv_WOS experts 4, specialists 4 idf</option>
+          <option value="ArxivWOSe5s5">BC on arxiv_WOS experts 5, specialists 5 idf</option>
           <!-- <option value="1s2TF">2 tfidf</option>
           <option value="2s3TF">3 tfidf</option>
           <option value="3s4TF">4 tfidf</option>
