@@ -1,0 +1,6202 @@
+{
+  "79638": {
+    "specialists": {
+      "Janka_H": [
+        0.072525, 
+        1, 
+        4
+      ], 
+      "Mueller_B": [
+        0.072525, 
+        1, 
+        4
+      ], 
+      "Heger_A": [
+        0.072525, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Caprioli_D"
+    ], 
+    "experts": {
+      "Lupi_S": [
+        1, 
+        3
+      ], 
+      "Hor_Y": [
+        2, 
+        5
+      ], 
+      "Nicoletti_D": [
+        1, 
+        3
+      ], 
+      "Pietro_P": [
+        1, 
+        3
+      ], 
+      "Cava_R": [
+        2, 
+        5
+      ]
+    }, 
+    "arxiv_id": "1206.1360", 
+    "title": "Cosmic-ray acceleration in supernova remnants: non-linear theory revised"
+  }, 
+  "40221": {
+    "specialists": {
+      "Soucail_G": [
+        0.314865, 
+        1, 
+        9
+      ], 
+      "Fortin_J": [
+        0.033563, 
+        1, 
+        9
+      ], 
+      "Stergiou_A": [
+        0.033563, 
+        1, 
+        9
+      ], 
+      "Grinstein_B": [
+        0.033563, 
+        1, 
+        9
+      ]
+    }, 
+    "authors": [
+      "Bernier_J", 
+      "Poletti_D", 
+      "Barmettler_P", 
+      "Roux_G", 
+      "Kollath_C"
+    ], 
+    "experts": {
+      "Kramer_M": [
+        7, 
+        171
+      ], 
+      "Guillemot_L": [
+        7, 
+        182
+      ], 
+      "Romani_R": [
+        8, 
+        172
+      ], 
+      "Ray_P": [
+        8, 
+        214
+      ], 
+      "Camilo_F": [
+        7, 
+        179
+      ]
+    }, 
+    "arxiv_id": "1111.4214", 
+    "title": "Slow quench dynamics of Mott-insulating regions in a trapped Bose gas"
+  }, 
+  "79983": {
+    "specialists": {
+      "Rodejohann_W": [
+        0.037275, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Fairbairn_M", 
+      "Douce_T", 
+      "Swift_J"
+    ], 
+    "experts": {
+      "Hall_P": [
+        5, 
+        78
+      ], 
+      "Brandt_W": [
+        5, 
+        84
+      ], 
+      "Hamann_F": [
+        7, 
+        94
+      ], 
+      "Schneider_D": [
+        5, 
+        78
+      ], 
+      "Arav_N": [
+        5, 
+        42
+      ]
+    }, 
+    "arxiv_id": "1206.2693", 
+    "title": "Quantifying Astrophysical Uncertainties on Dark Matter Direct Detection\n  Results"
+  }, 
+  "79902": {
+    "specialists": {
+      "Schneider_A": [
+        0.070540, 
+        1, 
+        8
+      ], 
+      "Moore_B": [
+        0.070540, 
+        1, 
+        8
+      ], 
+      "Maccio'_A": [
+        0.070540, 
+        1, 
+        8
+      ], 
+      "Paduroiu_S": [
+        0.070540, 
+        1, 
+        8
+      ], 
+      "Anderhalden_D": [
+        0.070540, 
+        1, 
+        8
+      ]
+    }, 
+    "authors": [
+      "Storm_E", 
+      "Jeltema_T", 
+      "Profumo_S"
+    ], 
+    "experts": {
+      "Koroteev_P": [
+        1, 
+        1
+      ], 
+      "Bolokhov_P": [
+        1, 
+        6
+      ], 
+      "Cui_X": [
+        1, 
+        5
+      ], 
+      "Shifman_M": [
+        2, 
+        11
+      ], 
+      "Yung_A": [
+        1, 
+        6
+      ]
+    }, 
+    "arxiv_id": "1206.1676", 
+    "title": "Gamma Rays from Star Formation in Clusters of Galaxies"
+  }, 
+  "36346": {
+    "specialists": {
+      "Oda_I": [
+        0.131245, 
+        1, 
+        3
+      ]
+    }, 
+    "authors": [
+      "Haghighat_B", 
+      "Vandoren_S"
+    ], 
+    "experts": {
+      "Schwope_A": [
+        2, 
+        6
+      ], 
+      "Pacaud_F": [
+        2, 
+        6
+      ], 
+      "Lamer_G": [
+        2, 
+        6
+      ], 
+      "Clerc_N": [
+        2, 
+        6
+      ], 
+      "Pierre_M": [
+        2, 
+        6
+      ]
+    }, 
+    "arxiv_id": "1107.2847", 
+    "title": "Five-dimensional gauge theory and compactification on a torus"
+  }, 
+  "132243": {
+    "specialists": {
+      "Kaplinghat_M": [
+        0.171506, 
+        1, 
+        9
+      ], 
+      "Carrega_M": [
+        0.002184, 
+        1, 
+        9
+      ], 
+      "Ferraro_D": [
+        0.002184, 
+        1, 
+        9
+      ], 
+      "Braggio_A": [
+        0.002184, 
+        1, 
+        9
+      ], 
+      "Magnoli_N": [
+        0.002184, 
+        1, 
+        9
+      ], 
+      "Bullock_J": [
+        0.171506, 
+        1, 
+        9
+      ], 
+      "Sassetti_M": [
+        0.002184, 
+        1, 
+        9
+      ], 
+      "Boylan-Kolchin_M": [
+        0.171506, 
+        1, 
+        9
+      ]
+    }, 
+    "authors": [
+      "McWilliams_S"
+    ], 
+    "experts": {
+      "Hajer_J": [
+        1, 
+        4
+      ], 
+      "Nomura_Y": [
+        2, 
+        4
+      ], 
+      "Cheung_C": [
+        2, 
+        6
+      ], 
+      "Thaler_J": [
+        2, 
+        4
+      ], 
+      "Hamaguchi_K": [
+        1, 
+        5
+      ]
+    }, 
+    "arxiv_id": "1212.1235", 
+    "title": "Black Holes are neither Particle Accelerators nor Dark Matter Probes"
+  }, 
+  "41664": {
+    "specialists": {
+      "Baudis_L": [
+        0.059278, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Mieske_S", 
+      "Hilker_M", 
+      "Misgeld_I"
+    ], 
+    "experts": {
+      "Marconi_A": [
+        6, 
+        141
+      ], 
+      "Kewley_L": [
+        7, 
+        94
+      ], 
+      "Maiolino_R": [
+        6, 
+        152
+      ], 
+      "Cresci_G": [
+        7, 
+        152
+      ], 
+      "Mannucci_F": [
+        6, 
+        142
+      ]
+    }, 
+    "arxiv_id": "1112.4475", 
+    "title": "The specific frequencies of ultra-compact dwarf galaxies"
+  }, 
+  "130467": {
+    "specialists": {
+      "Misgeld_I": [
+        0.059278, 
+        1, 
+        4
+      ], 
+      "Hilker_M": [
+        0.059278, 
+        1, 
+        4
+      ], 
+      "Mieske_S": [
+        0.059278, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Baudis_L"
+    ], 
+    "experts": {
+      "Marconi_A": [
+        6, 
+        141
+      ], 
+      "Kewley_L": [
+        7, 
+        94
+      ], 
+      "Maiolino_R": [
+        6, 
+        152
+      ], 
+      "Cresci_G": [
+        7, 
+        152
+      ], 
+      "Mannucci_F": [
+        6, 
+        142
+      ]
+    }, 
+    "arxiv_id": "1211.7222", 
+    "title": "Direct dark matter detection: the next decade"
+  }, 
+  "2523": {
+    "specialists": {
+      "Paoletti_D": [
+        0.116428, 
+        1, 
+        4
+      ], 
+      "Finelli_F": [
+        0.116428, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Wen_X", 
+      "Wang_Z"
+    ], 
+    "experts": {
+      "Markoff_S": [
+        10, 
+        196
+      ], 
+      "Fender_R": [
+        11, 
+        258
+      ], 
+      "Miller-Jones_J": [
+        10, 
+        178
+      ], 
+      "Corbel_S": [
+        8, 
+        164
+      ], 
+      "Russell_D": [
+        9, 
+        212
+      ]
+    }, 
+    "arxiv_id": "0803.1016", 
+    "title": "Topological properties of Abelian and non-Abelian quantum Hall states\n  from the pattern of zeros"
+  }, 
+  "120862": {
+    "specialists": {
+      "Campanelli_L": [
+        0.082602, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Dolag_K", 
+      "Dolgov_A", 
+      "Tkachev_I"
+    ], 
+    "experts": {
+      "Naoz_S": [
+        7, 
+        137
+      ], 
+      "Teyssandier_J": [
+        4, 
+        79
+      ], 
+      "Farr_W": [
+        3, 
+        98
+      ], 
+      "Rasio_F": [
+        4, 
+        105
+      ], 
+      "Lithwick_Y": [
+        3, 
+        97
+      ]
+    }, 
+    "arxiv_id": "1210.8009", 
+    "title": "Resolving infall caustics in dark matter halos"
+  }, 
+  "41310": {
+    "specialists": {
+      "Tchekhovskoy_A": [
+        0.059979, 
+        1, 
+        8
+      ], 
+      "Blandford_R": [
+        0.059979, 
+        1, 
+        8
+      ], 
+      "McKinney_J": [
+        0.059979, 
+        1, 
+        8
+      ]
+    }, 
+    "authors": [
+      "Alexandrov_A", 
+      "Kazakov_V", 
+      "Leurent_S", 
+      "Tsuboi_Z", 
+      "Zabrodin_A"
+    ], 
+    "experts": {
+      "Barbosa_F": [
+        2, 
+        7
+      ], 
+      "Nussenzveig_P": [
+        2, 
+        7
+      ], 
+      "Martinelli_M": [
+        2, 
+        7
+      ], 
+      "Cassemiro_K": [
+        2, 
+        7
+      ], 
+      "Coelho_A": [
+        2, 
+        7
+      ]
+    }, 
+    "arxiv_id": "1112.3310", 
+    "title": "Classical tau-function for quantum spin chains"
+  }, 
+  "80938": {
+    "specialists": {
+      "Saha_P": [
+        0.106196, 
+        1, 
+        10
+      ], 
+      "Choudhury_D": [
+        0.106196, 
+        1, 
+        10
+      ]
+    }, 
+    "authors": [
+      "Li_C", 
+      "Jing_Y", 
+      "Mao_S", 
+      "Han_J", 
+      "Peng_Q", 
+      "Yang_X", 
+      "Mo_H", 
+      "Bosch_F"
+    ], 
+    "experts": {
+      "Shovkovy_I": [
+        1, 
+        2
+      ], 
+      "Greiner_C": [
+        1, 
+        2
+      ], 
+      "Noronha-Hostler_J": [
+        1, 
+        2
+      ]
+    }, 
+    "arxiv_id": "1206.3566", 
+    "title": "Kinematics of groups of galaxies in the Sloan Digital Sky Survey data\n  release 7"
+  }, 
+  "83042": {
+    "specialists": {
+      "Giovanardi_C": [
+        0.011800, 
+        1, 
+        12
+      ], 
+      "Grossi_M": [
+        0.011800, 
+        1, 
+        12
+      ], 
+      "Okamoto_S": [
+        0.011800, 
+        1, 
+        12
+      ], 
+      "Corbelli_E": [
+        0.011800, 
+        1, 
+        12
+      ], 
+      "Hwang_N": [
+        0.011800, 
+        1, 
+        12
+      ], 
+      "Arimoto_N": [
+        0.011800, 
+        1, 
+        12
+      ]
+    }, 
+    "authors": [
+      "Ahn_K", 
+      "Iliev_I", 
+      "Shapiro_P", 
+      "Mellema_G", 
+      "Koda_J", 
+      "Mao_Y"
+    ], 
+    "experts": {
+      "Sanchez-Portal_D": [
+        1, 
+        5
+      ], 
+      "Arnau_A": [
+        1, 
+        5
+      ], 
+      "Demir_F": [
+        2, 
+        9
+      ], 
+      "Frederiksen_T": [
+        1, 
+        7
+      ], 
+      "Kirczenow_G": [
+        3, 
+        13
+      ]
+    }, 
+    "arxiv_id": "1206.5007", 
+    "title": "Detecting the Rise and Fall of the First Stars by Their Impact on Cosmic\n  Reionization"
+  }, 
+  "162068": {
+    "specialists": {
+      "Zoller_M": [
+        0.074618, 
+        1, 
+        264
+      ], 
+      "Chetyrkin_K": [
+        0.074618, 
+        1, 
+        264
+      ]
+    }, 
+    "authors": [
+      "Collaboration_ ", 
+      "Ade_P", 
+      "Aghanim_N", 
+      "Armitage-Caplan_C", 
+      "Arnaud_M", 
+      "Ashdown_M", 
+      "Atrio-Barandela_F", 
+      "Aumont_J", 
+      "Baccigalupi_C", 
+      "Banday_A", 
+      "Barreiro_R", 
+      "Bartlett_J", 
+      "Battaner_E", 
+      "Benabed_K", 
+      "Benoit_A", 
+      "Benoit-Levy_A", 
+      "Bernard_J", 
+      "Bersanelli_M", 
+      "Bielewicz_P", 
+      "Bobin_J", 
+      "Bock_J", 
+      "Bonaldi_A", 
+      "Bond_J", 
+      "Borrill_J", 
+      "Bouchet_F", 
+      "Bridges_M", 
+      "Bucher_M", 
+      "Burigana_C", 
+      "Butler_R", 
+      "Calabrese_E", 
+      "Cappellini_B", 
+      "Cardoso_J", 
+      "Catalano_A", 
+      "Challinor_A", 
+      "Chamballu_A", 
+      "Chary_R", 
+      "Chen_X", 
+      "Chiang_L", 
+      "Chiang_H", 
+      "Christensen_P", 
+      "Church_S", 
+      "Clements_D", 
+      "Colombi_S", 
+      "Colombo_L", 
+      "Couchot_F", 
+      "Coulais_A", 
+      "Crill_B", 
+      "Curto_A", 
+      "Cuttaia_F", 
+      "Danese_L", 
+      "Davies_R", 
+      "Davis_R", 
+      "Bernardis_P", 
+      "Rosa_A", 
+      "Zotti_G", 
+      "Delabrouille_J", 
+      "Delouis_J", 
+      "Desert_F", 
+      "Dickinson_C", 
+      "Diego_J", 
+      "Dolag_K", 
+      "Dole_H", 
+      "Donzelli_S", 
+      "Dore_O", 
+      "Douspis_M", 
+      "Dunkley_J", 
+      "Dupac_X", 
+      "Efstathiou_G", 
+      "Elsner_F", 
+      "Enlin_T", 
+      "Eriksen_H", 
+      "Finelli_F", 
+      "Forni_O", 
+      "Frailis_M", 
+      "Fraisse_A", 
+      "Franceschi_E", 
+      "Gaier_T", 
+      "Galeotta_S", 
+      "Galli_S", 
+      "Ganga_K", 
+      "Giard_M", 
+      "Giardino_G", 
+      "Giraud-Heraud_Y", 
+      "Gjerlw_E", 
+      "Gonzalez-Nuevo_J", 
+      "Gorski_K", 
+      "Gratton_S", 
+      "Gregorio_A", 
+      "Gruppuso_A", 
+      "Gudmundsson_J", 
+      "Haissinski_J", 
+      "Hamann_J", 
+      "Hansen_F", 
+      "Hanson_D", 
+      "Harrison_D", 
+      "Henrot-Versille_S", 
+      "Hernandez-Monteagudo_C", 
+      "Herranz_D", 
+      "Hildebrandt_S", 
+      "Hivon_E", 
+      "Hobson_M", 
+      "Holmes_W", 
+      "Hornstrup_A", 
+      "Hou_Z", 
+      "Hovest_W", 
+      "Huffenberger_K", 
+      "Jaffe_T", 
+      "Jaffe_A", 
+      "Jewell_J", 
+      "Jones_W", 
+      "Juvela_M", 
+      "Keihanen_E", 
+      "Keskitalo_R", 
+      "Kisner_T", 
+      "Kneissl_R", 
+      "Knoche_J", 
+      "Knox_L", 
+      "Kunz_M", 
+      "Kurki-Suonio_H", 
+      "Lagache_G", 
+      "Lahteenmaki_A", 
+      "Lamarre_J", 
+      "Lasenby_A", 
+      "Lattanzi_M", 
+      "Laureijs_R", 
+      "Lawrence_C", 
+      "Leach_S", 
+      "Leahy_J", 
+      "Leonardi_R", 
+      "Leon-Tavares_J", 
+      "Lesgourgues_J", 
+      "Lewis_A", 
+      "Liguori_M", 
+      "Lilje_P", 
+      "Linden-Vrnle_M", 
+      "Lopez-Caniego_M", 
+      "Lubin_P", 
+      "Macias-Perez_J", 
+      "Maffei_B", 
+      "Maino_D", 
+      "Mandolesi_N", 
+      "Maris_M", 
+      "Marshall_D", 
+      "Martin_P", 
+      "Martinez-Gonzalez_E", 
+      "Masi_S", 
+      "Matarrese_S", 
+      "Matthai_F", 
+      "Mazzotta_P", 
+      "Meinhold_P", 
+      "Melchiorri_A", 
+      "Melin_J", 
+      "Mendes_L", 
+      "Menegoni_E", 
+      "Mennella_A", 
+      "Migliaccio_M", 
+      "Millea_M", 
+      "Mitra_S", 
+      "Miville-Deschenes_M", 
+      "Moneti_A", 
+      "Montier_L", 
+      "Morgante_G", 
+      "Mortlock_D", 
+      "Moss_A", 
+      "Munshi_D", 
+      "Naselsky_P", 
+      "Nati_F", 
+      "Natoli_P", 
+      "Netterfield_C", 
+      "Nrgaard-Nielsen_H", 
+      "Noviello_F", 
+      "Novikov_D", 
+      "Novikov_I", 
+      "O'Dwyer_I", 
+      "Osborne_S", 
+      "Oxborrow_C", 
+      "Paci_F", 
+      "Pagano_L", 
+      "Pajot_F", 
+      "Paoletti_D", 
+      "Partridge_B", 
+      "Pasian_F", 
+      "Patanchon_G", 
+      "Pearson_D", 
+      "Pearson_T", 
+      "Peiris_H", 
+      "Perdereau_O", 
+      "Perotto_L", 
+      "Perrotta_F", 
+      "Pettorino_V", 
+      "Piacentini_F", 
+      "Piat_M", 
+      "Pierpaoli_E", 
+      "Pietrobon_D", 
+      "Plaszczynski_S", 
+      "Platania_P", 
+      "Pointecouteau_E", 
+      "Polenta_G", 
+      "Ponthieu_N", 
+      "Popa_L", 
+      "Poutanen_T", 
+      "Pratt_G", 
+      "Prezeau_G", 
+      "Prunet_S", 
+      "Puget_J", 
+      "Rachen_J", 
+      "Reach_W", 
+      "Rebolo_R", 
+      "Reinecke_M", 
+      "Remazeilles_M", 
+      "Renault_C", 
+      "Ricciardi_S", 
+      "Riller_T", 
+      "Ristorcelli_I", 
+      "Rocha_G", 
+      "Rosset_C", 
+      "Roudier_G", 
+      "Rowan-Robinson_M", 
+      "Rubino-Martin_J", 
+      "Rusholme_B", 
+      "Sandri_M", 
+      "Santos_D", 
+      "Savelainen_M", 
+      "Savini_G", 
+      "Scott_D", 
+      "Seiffert_M", 
+      "Shellard_E", 
+      "Spencer_L", 
+      "Starck_J", 
+      "Stolyarov_V", 
+      "Stompor_R", 
+      "Sudiwala_R", 
+      "Sunyaev_R", 
+      "Sureau_F", 
+      "Sutton_D", 
+      "Suur-Uski_A", 
+      "Sygnet_J", 
+      "Tauber_J", 
+      "Tavagnacco_D", 
+      "Terenzi_L", 
+      "Toffolatti_L", 
+      "Tomasi_M", 
+      "Tristram_M", 
+      "Tucci_M", 
+      "Tuovinen_J", 
+      "Turler_M", 
+      "Umana_G", 
+      "Valenziano_L", 
+      "Valiviita_J", 
+      "Tent_B", 
+      "Vielva_P", 
+      "Villa_F", 
+      "Vittorio_N", 
+      "Wade_L", 
+      "Wandelt_B", 
+      "Wehus_I", 
+      "White_M", 
+      "White_S", 
+      "Wilkinson_A", 
+      "Yvon_D", 
+      "Zacchei_A", 
+      "Zonca_A"
+    ], 
+    "experts": {
+      "Sternberg_A": [
+        2, 
+        10
+      ], 
+      "Hailey-Dunsheath_S": [
+        2, 
+        10
+      ], 
+      "Verma_A": [
+        2, 
+        10
+      ], 
+      "Contursi_A": [
+        2, 
+        10
+      ], 
+      "Sturm_E": [
+        2, 
+        10
+      ]
+    }, 
+    "arxiv_id": "1303.5076", 
+    "title": "Planck 2013 results. XVI. Cosmological parameters"
+  }, 
+  "78001": {
+    "specialists": {
+      "Benedetti_D": [
+        0.100766, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Garny_M", 
+      "Ibarra_A", 
+      "Tran_D"
+    ], 
+    "experts": {
+      "Ivanov_E": [
+        2, 
+        9
+      ], 
+      "Bellucci_S": [
+        2, 
+        7
+      ], 
+      "Zupnik_B": [
+        2, 
+        9
+      ], 
+      "Kuzenko_S": [
+        2, 
+        14
+      ], 
+      "Krivonos_S": [
+        2, 
+        7
+      ]
+    }, 
+    "arxiv_id": "1205.6783", 
+    "title": "Constraints on Hadronically Decaying Dark Matter"
+  }, 
+  "41379": {
+    "specialists": {
+      "Gavela_M": [
+        0.005140, 
+        1, 
+        8
+      ], 
+      "Dhen_M": [
+        0.005140, 
+        1, 
+        8
+      ], 
+      "Alonso_R": [
+        0.005140, 
+        1, 
+        8
+      ], 
+      "Hambye_T": [
+        0.005140, 
+        1, 
+        8
+      ]
+    }, 
+    "authors": [
+      "Martizzi_D", 
+      "Teyssier_R", 
+      "Moore_B", 
+      "Wentz_T"
+    ], 
+    "experts": {
+      "Mataloni_P": [
+        4, 
+        48
+      ], 
+      "Sciarrino_F": [
+        4, 
+        48
+      ], 
+      "Vitelli_C": [
+        4, 
+        48
+      ], 
+      "Spagnolo_N": [
+        4, 
+        48
+      ], 
+      "Ramponi_R": [
+        4, 
+        48
+      ]
+    }, 
+    "arxiv_id": "1112.2752", 
+    "title": "The effects of baryon physics, black holes and AGN feedback on the mass\n  distribution in clusters of galaxies"
+  }, 
+  "103546": {
+    "specialists": {
+      "Wang_S": [
+        0.042472, 
+        1, 
+        15
+      ], 
+      "Brandt_W": [
+        0.042472, 
+        1, 
+        15
+      ], 
+      "Gilli_R": [
+        0.042472, 
+        1, 
+        15
+      ], 
+      "Luo_B": [
+        0.042472, 
+        1, 
+        15
+      ], 
+      "Xue_Y": [
+        0.042472, 
+        1, 
+        15
+      ], 
+      "Fabian_A": [
+        0.042472, 
+        1, 
+        15
+      ], 
+      "Vignali_C": [
+        0.042472, 
+        1, 
+        15
+      ], 
+      "Schneider_D": [
+        0.042472, 
+        1, 
+        15
+      ], 
+      "Lehmer_B": [
+        0.042472, 
+        1, 
+        15
+      ], 
+      "Comastri_A": [
+        0.042472, 
+        1, 
+        15
+      ], 
+      "Alexander_D": [
+        0.042472, 
+        1, 
+        15
+      ], 
+      "Bauer_F": [
+        0.042472, 
+        1, 
+        15
+      ], 
+      "Young_M": [
+        0.042472, 
+        1, 
+        15
+      ]
+    }, 
+    "authors": [
+      "Ali-Haimoud_Y", 
+      "Bird_S"
+    ], 
+    "experts": {
+      "Shpitser_I": [
+        1, 
+        1
+      ], 
+      "VanderWeele_T": [
+        1, 
+        1
+      ], 
+      "Mealli_F": [
+        1, 
+        1
+      ], 
+      "Phipps_P": [
+        1, 
+        1
+      ], 
+      "Mattei_A": [
+        1, 
+        1
+      ]
+    }, 
+    "arxiv_id": "1209.0461", 
+    "title": "An efficient implementation of massive neutrinos in non-linear structure\n  formation simulations"
+  }, 
+  "114046": {
+    "specialists": {
+      "Mertens_P": [
+        0.064819, 
+        1, 
+        4
+      ], 
+      "Gerard_J": [
+        0.064819, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Sparre_M", 
+      "Hansen_S"
+    ], 
+    "experts": {
+      "Okazaki_A": [
+        4, 
+        34
+      ], 
+      "Groh_J": [
+        6, 
+        67
+      ], 
+      "Madura_T": [
+        6, 
+        64
+      ], 
+      "Owocki_S": [
+        4, 
+        39
+      ], 
+      "Parkin_E": [
+        4, 
+        43
+      ]
+    }, 
+    "arxiv_id": "1210.2392", 
+    "title": "The behaviour of shape and velocity anisotropy in dark matter haloes"
+  }, 
+  "44110": {
+    "specialists": {
+      "Storm_E": [
+        0.070540, 
+        1, 
+        8
+      ], 
+      "Profumo_S": [
+        0.070540, 
+        1, 
+        8
+      ], 
+      "Jeltema_T": [
+        0.070540, 
+        1, 
+        8
+      ]
+    }, 
+    "authors": [
+      "Maccio'_A", 
+      "Paduroiu_S", 
+      "Anderhalden_D", 
+      "Schneider_A", 
+      "Moore_B"
+    ], 
+    "experts": {
+      "Koroteev_P": [
+        1, 
+        1
+      ], 
+      "Bolokhov_P": [
+        1, 
+        6
+      ], 
+      "Cui_X": [
+        1, 
+        5
+      ], 
+      "Shifman_M": [
+        2, 
+        11
+      ], 
+      "Yung_A": [
+        1, 
+        6
+      ]
+    }, 
+    "arxiv_id": "1202.1282", 
+    "title": "Cores in warm dark matter haloes: a Catch 22 problem"
+  }, 
+  "108196": {
+    "specialists": {
+      "Koposov_S": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Belokurov_V": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Laporte_C": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Olszewski_E": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Evans_N": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Fellhauer_M": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Penarrubia_J": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Cooke_R": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Deason_A": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Walker_M": [
+        0.026378, 
+        1, 
+        24
+      ]
+    }, 
+    "authors": [
+      "Font-Ribera_A", 
+      "Miralda-Escude_J", 
+      "Arnau_E", 
+      "Carithers_B", 
+      "Lee_K", 
+      "Noterdaeme_P", 
+      "Paris_I", 
+      "Petitjean_P", 
+      "Rich_J", 
+      "Rollinde_E", 
+      "Ross_N", 
+      "Schneider_D", 
+      "White_M", 
+      "York_D"
+    ], 
+    "experts": {
+      "Wang_J": [
+        2, 
+        15
+      ], 
+      "Zhao_H": [
+        2, 
+        15
+      ], 
+      "Zhong_Y": [
+        1, 
+        10
+      ], 
+      "Zhang_Y": [
+        2, 
+        15
+      ], 
+      "Dhar_A": [
+        2, 
+        8
+      ]
+    }, 
+    "arxiv_id": "1209.4596", 
+    "title": "The large-scale cross-correlation of Damped Lyman Alpha Systems with the\n  Lyman Alpha Forest: First Measurements from BOSS"
+  }, 
+  "151810": {
+    "specialists": {
+      "Smolin_L": [
+        0.106640, 
+        1, 
+        5
+      ], 
+      "Marciano_A": [
+        0.106640, 
+        1, 
+        5
+      ], 
+      "Alexander_S": [
+        0.106640, 
+        1, 
+        5
+      ]
+    }, 
+    "authors": [
+      "Kharzeev_D", 
+      "Yee_H"
+    ], 
+    "experts": {
+      "Hatzinikitas_A": [
+        1, 
+        1
+      ]
+    }, 
+    "arxiv_id": "1012.6026", 
+    "title": "Chiral Magnetic Wave"
+  }, 
+  "119394": {
+    "specialists": {
+      "Croston_J": [
+        0.088456, 
+        1, 
+        16
+      ], 
+      "Donahue_M": [
+        0.088456, 
+        1, 
+        16
+      ], 
+      "Hicks_A": [
+        0.088456, 
+        1, 
+        16
+      ], 
+      "Pratt_G": [
+        0.088456, 
+        1, 
+        16
+      ], 
+      "Bohringer_H": [
+        0.088456, 
+        1, 
+        16
+      ], 
+      "Gladders_M": [
+        0.088456, 
+        1, 
+        16
+      ], 
+      "Ellingson_E": [
+        0.088456, 
+        1, 
+        16
+      ], 
+      "Yan_R": [
+        0.088456, 
+        1, 
+        16
+      ], 
+      "Yee_H": [
+        0.088456, 
+        1, 
+        16
+      ], 
+      "Gilbank_D": [
+        0.088456, 
+        1, 
+        16
+      ]
+    }, 
+    "authors": [
+      "Nakazato_K", 
+      "Sumiyoshi_K", 
+      "Suzuki_H", 
+      "Totani_T", 
+      "Umeda_H", 
+      "Yamada_S"
+    ], 
+    "experts": {
+      "Toschi_A": [
+        1, 
+        6
+      ], 
+      "Ikeda_H": [
+        1, 
+        6
+      ], 
+      "Held_K": [
+        1, 
+        6
+      ], 
+      "Kunes_J": [
+        2, 
+        10
+      ], 
+      "Wissgott_P": [
+        1, 
+        6
+      ]
+    }, 
+    "arxiv_id": "1210.6841", 
+    "title": "Supernova Neutrino Light Curves and Spectra for Various Progenitor\n  Stars: From Core Collapse to Proto-neutron Star Cooling"
+  }, 
+  "40625": {
+    "specialists": {
+      "Cally_P": [
+        0.020048, 
+        1, 
+        5
+      ], 
+      "Khomenko_E": [
+        0.020048, 
+        1, 
+        5
+      ], 
+      "Mukohyama_S": [
+        0.022789, 
+        1, 
+        5
+      ], 
+      "Uzan_J": [
+        0.022789, 
+        1, 
+        5
+      ]
+    }, 
+    "authors": [
+      "Zubkov_M"
+    ], 
+    "experts": {
+      "Fuks_B": [
+        2, 
+        12
+      ], 
+      "Andrea_J": [
+        2, 
+        9
+      ], 
+      "Maltoni_F": [
+        1, 
+        6
+      ], 
+      "Conte_E": [
+        2, 
+        5
+      ], 
+      "Mukhopadhyaya_B": [
+        1, 
+        5
+      ]
+    }, 
+    "arxiv_id": "1003.5473", 
+    "title": "Torsion instead of Technicolor"
+  }, 
+  "40624": {
+    "specialists": {
+      "Torbaniuk_O": [
+        0.042707, 
+        1, 
+        4
+      ], 
+      "Sergijenko_O": [
+        0.042707, 
+        1, 
+        4
+      ], 
+      "Ivashchenko_G": [
+        0.042707, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Simonov_Y"
+    ], 
+    "experts": {
+      "Polkovnikov_A": [
+        2, 
+        9
+      ], 
+      "Chen_S": [
+        1, 
+        6
+      ], 
+      "Kolodrubetz_M": [
+        2, 
+        5
+      ], 
+      "Gritsev_V": [
+        2, 
+        6
+      ], 
+      "Liu_W": [
+        1, 
+        7
+      ]
+    }, 
+    "arxiv_id": "1012.1171", 
+    "title": "Spontaneous SU(2) symmetry violation in the $SU(2)_L \\times\n  SU(2)_R\\times SU(4)$ electroweak model"
+  }, 
+  "40789": {
+    "specialists": {
+      "Uklein_R": [
+        0.055054, 
+        1, 
+        4
+      ], 
+      "Makarov_D": [
+        0.055054, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Anchordoqui_L", 
+      "Goldberg_H"
+    ], 
+    "experts": {
+      "Kasliwal_M": [
+        2, 
+        7
+      ], 
+      "Bloom_J": [
+        2, 
+        7
+      ], 
+      "Kulkarni_S": [
+        2, 
+        8
+      ], 
+      "Law_N": [
+        2, 
+        8
+      ], 
+      "Ofek_E": [
+        2, 
+        8
+      ]
+    }, 
+    "arxiv_id": "1111.7264", 
+    "title": "Neutrino Cosmology after WMAP and LHC7"
+  }, 
+  "148126": {
+    "specialists": {
+      "Venkatesan_A": [
+        0.095600, 
+        1, 
+        9
+      ], 
+      "Gondolo_P": [
+        0.095600, 
+        1, 
+        9
+      ], 
+      "Pierpaoli_E": [
+        0.095600, 
+        1, 
+        9
+      ], 
+      "Scott_P": [
+        0.095600, 
+        1, 
+        9
+      ], 
+      "Holder_G": [
+        0.095600, 
+        1, 
+        9
+      ], 
+      "Roebber_E": [
+        0.095600, 
+        1, 
+        9
+      ]
+    }, 
+    "authors": [
+      "Cabot_S", 
+      "Wang_Q", 
+      "Yao_Y"
+    ], 
+    "experts": {
+      "Flambaum_V": [
+        1, 
+        3
+      ], 
+      "Schwerdtfeger_P": [
+        1, 
+        3
+      ], 
+      "Ilias_M": [
+        1, 
+        3
+      ], 
+      "Dzuba_V": [
+        1, 
+        3
+      ], 
+      "Borschevsky_A": [
+        1, 
+        3
+      ]
+    }, 
+    "arxiv_id": "1302.0076", 
+    "title": "XMM-Newton/RGS Detection of the Missing Interstellar OVII Kalpha\n  Absorption Line in the Spectrum of Cyg X-2"
+  }, 
+  "84208": {
+    "specialists": {
+      "Kopp_J": [
+        0.135140, 
+        1, 
+        10
+      ], 
+      "Schwetz_T": [
+        0.135140, 
+        1, 
+        10
+      ], 
+      "Machado_P": [
+        0.135140, 
+        1, 
+        10
+      ], 
+      "Maltoni_M": [
+        0.135140, 
+        1, 
+        10
+      ]
+    }, 
+    "authors": [
+      "Bonamente_M", 
+      "Landry_D", 
+      "Maughan_B", 
+      "Giles_P", 
+      "Joy_M", 
+      "Nevalainen_J"
+    ], 
+    "experts": {
+      "Sloan_G": [
+        3, 
+        21
+      ], 
+      "Meixner_M": [
+        5, 
+        41
+      ], 
+      "Srinivasan_S": [
+        5, 
+        43
+      ], 
+      "Matsuura_M": [
+        3, 
+        19
+      ], 
+      "Sargent_B": [
+        4, 
+        35
+      ]
+    }, 
+    "arxiv_id": "1206.6067", 
+    "title": "Chandra X-ray observations of Abell 1835 to the virial radius"
+  }, 
+  "139097": {
+    "specialists": {
+      "Kharzeev_D": [
+        0.093224, 
+        1, 
+        7
+      ], 
+      "Yee_H": [
+        0.093224, 
+        1, 
+        7
+      ]
+    }, 
+    "authors": [
+      "Nucita_A", 
+      "Manni_L", 
+      "Paolis_F", 
+      "Vetrugno_D", 
+      "Ingrosso_G"
+    ], 
+    "experts": {
+      "Koekemoer_A": [
+        5, 
+        100
+      ], 
+      "Tanaka_M": [
+        6, 
+        130
+      ], 
+      "Lilly_S": [
+        5, 
+        109
+      ], 
+      "Ilbert_O": [
+        5, 
+        101
+      ], 
+      "Peng_Y": [
+        5, 
+        109
+      ]
+    }, 
+    "arxiv_id": "1301.0190", 
+    "title": "An XMM-Newton search for X-ray sources in the Fornax dwarf galaxy"
+  }, 
+  "60291": {
+    "specialists": {
+      "Carrega_M": [
+        0.012887, 
+        1, 
+        9
+      ], 
+      "McWilliams_S": [
+        0.171506, 
+        1, 
+        9
+      ], 
+      "Ferraro_D": [
+        0.012887, 
+        1, 
+        9
+      ], 
+      "Braggio_A": [
+        0.012887, 
+        1, 
+        9
+      ], 
+      "Magnoli_N": [
+        0.012887, 
+        1, 
+        9
+      ], 
+      "Sassetti_M": [
+        0.012887, 
+        1, 
+        9
+      ]
+    }, 
+    "authors": [
+      "Boylan-Kolchin_M", 
+      "Bullock_J", 
+      "Kaplinghat_M"
+    ], 
+    "experts": {
+      "Hajer_J": [
+        1, 
+        4
+      ], 
+      "Nomura_Y": [
+        2, 
+        4
+      ], 
+      "Cheung_C": [
+        2, 
+        6
+      ], 
+      "Thaler_J": [
+        2, 
+        4
+      ], 
+      "Hamaguchi_K": [
+        1, 
+        5
+      ]
+    }, 
+    "arxiv_id": "1111.2048", 
+    "title": "The Milky Way's bright satellites as an apparent failure of LCDM"
+  }, 
+  "82506": {
+    "specialists": {
+      "Karmakar_P": [
+        0.054744, 
+        1, 
+        6
+      ], 
+      "Jain_P": [
+        0.054744, 
+        1, 
+        6
+      ], 
+      "Singh_N": [
+        0.054744, 
+        1, 
+        6
+      ]
+    }, 
+    "authors": [
+      "Zenitani_S", 
+      "Hesse_M", 
+      "Klimas_A"
+    ], 
+    "experts": {
+      "Reall_H": [
+        1, 
+        6
+      ], 
+      "Pretorius_F": [
+        1, 
+        5
+      ], 
+      "Figueras_P": [
+        1, 
+        5
+      ], 
+      "Murata_K": [
+        1, 
+        5
+      ], 
+      "Lehner_L": [
+        1, 
+        5
+      ]
+    }, 
+    "arxiv_id": "0902.2074", 
+    "title": "Two-Fluid Magnetohydrodynamic Simulations of Relativistic Magnetic\n  Reconnection"
+  }, 
+  "37100": {
+    "specialists": {
+      "Dolgov_A": [
+        0.082602, 
+        1, 
+        4
+      ], 
+      "Dolag_K": [
+        0.082602, 
+        1, 
+        4
+      ], 
+      "Tkachev_I": [
+        0.082602, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Campanelli_L"
+    ], 
+    "experts": {
+      "Naoz_S": [
+        7, 
+        137
+      ], 
+      "Teyssandier_J": [
+        4, 
+        79
+      ], 
+      "Farr_W": [
+        3, 
+        98
+      ], 
+      "Rasio_F": [
+        4, 
+        105
+      ], 
+      "Lithwick_Y": [
+        3, 
+        97
+      ]
+    }, 
+    "arxiv_id": "astro-ph/0407056", 
+    "title": "Scaling Laws in Magnetohydrodynamic Turbulence"
+  }, 
+  "41308": {
+    "specialists": {
+      "Sachdev_S": [
+        0.015103, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Xing_Z", 
+      "Zhang_H", 
+      "Zhou_S"
+    ], 
+    "experts": {
+      "Skomorowski_W": [
+        1, 
+        4
+      ], 
+      "Stein_A": [
+        2, 
+        7
+      ], 
+      "Tiemann_E": [
+        2, 
+        7
+      ], 
+      "Moszynski_R": [
+        1, 
+        4
+      ], 
+      "Knockel_H": [
+        2, 
+        7
+      ]
+    }, 
+    "arxiv_id": "1112.3112", 
+    "title": "Impacts of the Higgs mass on vacuum stability, running fermion masses\n  and two-body Higgs decays"
+  }, 
+  "41464": {
+    "specialists": {
+      "Lyutikov_M": [
+        0.115367, 
+        1, 
+        10
+      ]
+    }, 
+    "authors": [
+      "Costantini_E", 
+      "Pinto_C", 
+      "Kaastra_J", 
+      "Zand_J", 
+      "Freyberg_M", 
+      "Kuiper_L", 
+      "Mendez_M", 
+      "Vries_C", 
+      "Waters_L"
+    ], 
+    "experts": {
+      "Heggie_D": [
+        3, 
+        23
+      ], 
+      "Hypki_A": [
+        2, 
+        12
+      ], 
+      "Hurley_J": [
+        2, 
+        17
+      ], 
+      "Giersz_M": [
+        4, 
+        25
+      ], 
+      "Umbreit_S": [
+        2, 
+        15
+      ]
+    }, 
+    "arxiv_id": "1112.4349", 
+    "title": "XMM-Newton observation of 4U 1820-30: Broad band spectrum and the\n  contribution of the cold interstellar medium"
+  }, 
+  "61439": {
+    "specialists": {
+      "Cho_J": [
+        0.004811, 
+        1, 
+        5
+      ], 
+      "Yoo_H": [
+        0.004811, 
+        1, 
+        5
+      ]
+    }, 
+    "authors": [
+      "Kulinich_Y", 
+      "Novosyadlyj_B", 
+      "Apunevych_S"
+    ], 
+    "experts": {
+      "Charnay_B": [
+        4, 
+        52
+      ], 
+      "Wordsworth_R": [
+        5, 
+        79
+      ], 
+      "Forget_F": [
+        5, 
+        73
+      ], 
+      "Millour_E": [
+        5, 
+        68
+      ], 
+      "Madeleine_J": [
+        4, 
+        51
+      ]
+    }, 
+    "arxiv_id": "1203.5297", 
+    "title": "Non-linear power spectra of dark and luminous matter in halo model of\n  structure formation"
+  }, 
+  "82834": {
+    "specialists": {
+      "Pohl_M": [
+        0.128949, 
+        1, 
+        10
+      ], 
+      "Eichler_D": [
+        0.128949, 
+        1, 
+        10
+      ]
+    }, 
+    "authors": [
+      "Sasaki_M", 
+      "Pietsch_W", 
+      "Haberl_F", 
+      "Hatzidimitriou_D", 
+      "Stiele_H", 
+      "Williams_B", 
+      "Kong_A", 
+      "Kolb_U"
+    ], 
+    "experts": {
+      "Zhou_T": [
+        4, 
+        38
+      ], 
+      "Zeng_A": [
+        3, 
+        16
+      ], 
+      "Zhang_Y": [
+        4, 
+        32
+      ], 
+      "Zhang_Z": [
+        3, 
+        22
+      ], 
+      "Medo_M": [
+        3, 
+        24
+      ]
+    }, 
+    "arxiv_id": "1206.4789", 
+    "title": "Supernova remnants and candidates detected in the XMM-Newton M31 large\n  survey"
+  }, 
+  "33269": {
+    "specialists": {
+      "Mao_Y": [
+        0.011800, 
+        1, 
+        12
+      ], 
+      "Koda_J": [
+        0.011800, 
+        1, 
+        12
+      ], 
+      "Iliev_I": [
+        0.011800, 
+        1, 
+        12
+      ], 
+      "Mellema_G": [
+        0.011800, 
+        1, 
+        12
+      ], 
+      "Ahn_K": [
+        0.011800, 
+        1, 
+        12
+      ], 
+      "Shapiro_P": [
+        0.011800, 
+        1, 
+        12
+      ]
+    }, 
+    "authors": [
+      "Grossi_M", 
+      "Hwang_N", 
+      "Corbelli_E", 
+      "Giovanardi_C", 
+      "Okamoto_S", 
+      "Arimoto_N"
+    ], 
+    "experts": {
+      "Sanchez-Portal_D": [
+        1, 
+        5
+      ], 
+      "Arnau_A": [
+        1, 
+        5
+      ], 
+      "Demir_F": [
+        2, 
+        9
+      ], 
+      "Frederiksen_T": [
+        1, 
+        7
+      ], 
+      "Kirczenow_G": [
+        3, 
+        13
+      ]
+    }, 
+    "arxiv_id": "1106.4704", 
+    "title": "Stellar structures in the outer regions of M33"
+  }, 
+  "42504": {
+    "specialists": {
+      "Raidal_M": [
+        0.045119, 
+        1, 
+        6
+      ], 
+      "Tempel_E": [
+        0.045119, 
+        1, 
+        6
+      ], 
+      "Hektor_A": [
+        0.045119, 
+        1, 
+        6
+      ]
+    }, 
+    "authors": [
+      "Terhal_B", 
+      "Hassler_F", 
+      "DiVincenzo_D"
+    ], 
+    "experts": {
+      "Chan_C": [
+        1, 
+        2
+      ], 
+      "Rafikov_R": [
+        2, 
+        6
+      ], 
+      "Stone_J": [
+        1, 
+        3
+      ], 
+      "Pessah_M": [
+        1, 
+        2
+      ], 
+      "Belyaev_M": [
+        2, 
+        6
+      ]
+    }, 
+    "arxiv_id": "1201.3757", 
+    "title": "From Majorana Fermions to Topological Order"
+  }, 
+  "68013": {
+    "specialists": {
+      "Anchordoqui_L": [
+        0.055054, 
+        1, 
+        4
+      ], 
+      "Goldberg_H": [
+        0.055054, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Makarov_D", 
+      "Uklein_R"
+    ], 
+    "experts": {
+      "Kasliwal_M": [
+        2, 
+        7
+      ], 
+      "Bloom_J": [
+        2, 
+        7
+      ], 
+      "Kulkarni_S": [
+        2, 
+        8
+      ], 
+      "Law_N": [
+        2, 
+        8
+      ], 
+      "Ofek_E": [
+        2, 
+        8
+      ]
+    }, 
+    "arxiv_id": "1204.5406", 
+    "title": "A List of Dwarf Galaxies in the Local Supercluster"
+  }, 
+  "42572": {
+    "specialists": {
+      "Mao_S": [
+        0.106196, 
+        1, 
+        10
+      ], 
+      "Li_C": [
+        0.106196, 
+        1, 
+        10
+      ], 
+      "Yang_X": [
+        0.106196, 
+        1, 
+        10
+      ], 
+      "Jing_Y": [
+        0.106196, 
+        1, 
+        10
+      ], 
+      "Mo_H": [
+        0.106196, 
+        1, 
+        10
+      ], 
+      "Bosch_F": [
+        0.106196, 
+        1, 
+        10
+      ], 
+      "Peng_Q": [
+        0.106196, 
+        1, 
+        10
+      ], 
+      "Han_J": [
+        0.106196, 
+        1, 
+        10
+      ]
+    }, 
+    "authors": [
+      "Choudhury_D", 
+      "Saha_P"
+    ], 
+    "experts": {
+      "Shovkovy_I": [
+        1, 
+        2
+      ], 
+      "Greiner_C": [
+        1, 
+        2
+      ], 
+      "Noronha-Hostler_J": [
+        1, 
+        2
+      ]
+    }, 
+    "arxiv_id": "1201.4130", 
+    "title": "Higgs production as a probe of anomalous top couplings"
+  }, 
+  "32018": {
+    "specialists": {
+      "Rodejohann_W": [
+        0.029097, 
+        1, 
+        4
+      ], 
+      "Heeck_J": [
+        0.029097, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Joudaki_S", 
+      "Kaplinghat_M"
+    ], 
+    "experts": {
+      "Teo_L": [
+        5, 
+        47
+      ], 
+      "Emig_T": [
+        2, 
+        20
+      ], 
+      "Kardar_M": [
+        2, 
+        14
+      ], 
+      "Gies_H": [
+        2, 
+        9
+      ], 
+      "Bimonte_G": [
+        2, 
+        15
+      ]
+    }, 
+    "arxiv_id": "1106.0299", 
+    "title": "Dark Energy and Neutrino Masses from Future Measurements of the\n  Expansion History and Growth of Structure"
+  }, 
+  "93608": {
+    "specialists": {
+      "Lanzuisi_G": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Cappelluti_N": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Merloni_A": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Vignali_C": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Iwasawa_K": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Sanders_D": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Taniguchi_Y": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Dvornikov_M": [
+        0.002873, 
+        1, 
+        22
+      ], 
+      "Trump_J": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Koekemoer_A": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Semikoz_V": [
+        0.002873, 
+        1, 
+        22
+      ], 
+      "Lusso_E": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Brusa_M": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Mainieri_V": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Comastri_A": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Impey_C": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Salvato_M": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Gilli_R": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Hasinger_G": [
+        0.002948, 
+        1, 
+        22
+      ]
+    }, 
+    "authors": [
+      "Bradlyn_B", 
+      "Goldstein_M", 
+      "Read_N"
+    ], 
+    "experts": {
+      "Astier_A": [
+        2, 
+        5
+      ], 
+      "Deloncle_I": [
+        2, 
+        5
+      ], 
+      "Porquet_M": [
+        2, 
+        5
+      ], 
+      "Dorvaux_O": [
+        2, 
+        5
+      ], 
+      "Azaiez_F": [
+        2, 
+        5
+      ]
+    }, 
+    "arxiv_id": "1207.7021", 
+    "title": "Kubo formulas for viscosity: Hall viscosity, Ward identities, and the\n  relation with conductivity"
+  }, 
+  "40928": {
+    "specialists": {
+      "Costantini_E": [
+        0.115367, 
+        1, 
+        10
+      ], 
+      "Kuiper_L": [
+        0.115367, 
+        1, 
+        10
+      ], 
+      "Kaastra_J": [
+        0.115367, 
+        1, 
+        10
+      ], 
+      "Freyberg_M": [
+        0.115367, 
+        1, 
+        10
+      ], 
+      "Pinto_C": [
+        0.115367, 
+        1, 
+        10
+      ], 
+      "Waters_L": [
+        0.115367, 
+        1, 
+        10
+      ], 
+      "Mendez_M": [
+        0.115367, 
+        1, 
+        10
+      ], 
+      "Vries_C": [
+        0.115367, 
+        1, 
+        10
+      ], 
+      "Zand_J": [
+        0.115367, 
+        1, 
+        10
+      ]
+    }, 
+    "authors": [
+      "Lyutikov_M"
+    ], 
+    "experts": {
+      "Heggie_D": [
+        3, 
+        23
+      ], 
+      "Hypki_A": [
+        2, 
+        12
+      ], 
+      "Hurley_J": [
+        2, 
+        17
+      ], 
+      "Giersz_M": [
+        4, 
+        25
+      ], 
+      "Umbreit_S": [
+        2, 
+        15
+      ]
+    }, 
+    "arxiv_id": "astro-ph/0512342", 
+    "title": "The electromagnetic model of Gamma Ray Bursts"
+  }, 
+  "78100": {
+    "specialists": {
+      "Aharonian_F": [
+        0.114653, 
+        1, 
+        5
+      ], 
+      "Rieger_F": [
+        0.114653, 
+        1, 
+        5
+      ]
+    }, 
+    "authors": [
+      "Barrow_J", 
+      "Tsagas_C", 
+      "Yamamoto_K"
+    ], 
+    "experts": {
+      "Akemann_G": [
+        4, 
+        62
+      ], 
+      "Burda_Z": [
+        3, 
+        27
+      ], 
+      "Ipsen_J": [
+        3, 
+        24
+      ], 
+      "Zyczkowski_K": [
+        3, 
+        29
+      ], 
+      "Kieburg_M": [
+        4, 
+        39
+      ]
+    }, 
+    "arxiv_id": "1205.6662", 
+    "title": "The origin of cosmic magnetic fields: superadiabatically amplified modes\n  in open Friedmann universes"
+  }, 
+  "42747": {
+    "specialists": {
+      "Park_C": [
+        0.009135, 
+        1, 
+        5
+      ], 
+      "Hwang_J": [
+        0.009135, 
+        1, 
+        5
+      ], 
+      "Noh_H": [
+        0.009135, 
+        1, 
+        5
+      ]
+    }, 
+    "authors": [
+      "Venters_T", 
+      "Pavlidou_V"
+    ], 
+    "experts": {
+      "Bonvini_M": [
+        3, 
+        22
+      ], 
+      "Gehrmann_T": [
+        2, 
+        15
+      ], 
+      "Ridolfi_G": [
+        3, 
+        18
+      ], 
+      "Forte_S": [
+        3, 
+        22
+      ], 
+      "Marzani_S": [
+        3, 
+        17
+      ]
+    }, 
+    "arxiv_id": "1201.4405", 
+    "title": "Probing the Intergalactic Magnetic Field with the Anisotropy of the\n  Extragalactic Gamma-ray Background"
+  }, 
+  "77929": {
+    "specialists": {
+      "Ross_N": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Paris_I": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "York_D": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Lee_K": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Font-Ribera_A": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Rollinde_E": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Arnau_E": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Schneider_D": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Carithers_B": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "White_M": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Rich_J": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Petitjean_P": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Noterdaeme_P": [
+        0.026378, 
+        1, 
+        24
+      ], 
+      "Miralda-Escude_J": [
+        0.026378, 
+        1, 
+        24
+      ]
+    }, 
+    "authors": [
+      "Deason_A", 
+      "Belokurov_V", 
+      "Evans_N", 
+      "Koposov_S", 
+      "Cooke_R", 
+      "Penarrubia_J", 
+      "Laporte_C", 
+      "Fellhauer_M", 
+      "Walker_M", 
+      "Olszewski_E"
+    ], 
+    "experts": {
+      "Wang_J": [
+        2, 
+        15
+      ], 
+      "Zhao_H": [
+        2, 
+        15
+      ], 
+      "Zhong_Y": [
+        1, 
+        10
+      ], 
+      "Zhang_Y": [
+        2, 
+        15
+      ], 
+      "Dhar_A": [
+        2, 
+        8
+      ]
+    }, 
+    "arxiv_id": "1205.6203", 
+    "title": "The cold veil of the Milky Way stellar halo"
+  }, 
+  "105428": {
+    "specialists": {
+      "Malapa_S": [
+        0.042440, 
+        1, 
+        6
+      ], 
+      "Busse_A": [
+        0.042440, 
+        1, 
+        6
+      ], 
+      "Muller_W": [
+        0.042440, 
+        1, 
+        6
+      ]
+    }, 
+    "authors": [
+      "Garcia-Bellido_J", 
+      "Rubio_J", 
+      "Shaposhnikov_M"
+    ], 
+    "experts": {
+      "Brummell_N": [
+        1, 
+        3
+      ], 
+      "Traxler_A": [
+        1, 
+        3
+      ], 
+      "Stellmach_S": [
+        1, 
+        3
+      ], 
+      "Radko_T": [
+        1, 
+        3
+      ], 
+      "Garaud_P": [
+        1, 
+        3
+      ]
+    }, 
+    "arxiv_id": "1209.2119", 
+    "title": "Higgs-Dilaton cosmology: Are there extra relativistic species?"
+  }, 
+  "41637": {
+    "specialists": {
+      "Trodden_M": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Volkas_R": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Petraki_K": [
+        0.000579, 
+        1, 
+        79
+      ]
+    }, 
+    "authors": [
+      "Benson_B", 
+      "Haan_T", 
+      "Dudley_J", 
+      "Reichardt_C", 
+      "Aird_K", 
+      "Andersson_K", 
+      "Armstrong_R", 
+      "Bautz_M", 
+      "Bayliss_M", 
+      "Bazin_G", 
+      "Bleem_L", 
+      "Brodwin_M", 
+      "Carlstrom_J", 
+      "Chang_C", 
+      "Cho_H", 
+      "Clocchiatti_A", 
+      "Crawford_T", 
+      "Crites_A", 
+      "Desai_S", 
+      "Dobbs_M", 
+      "Foley_R", 
+      "Forman_W", 
+      "George_E", 
+      "Gladders_M", 
+      "Halverson_N", 
+      "High_F", 
+      "Holder_G", 
+      "Holzapfel_W", 
+      "Hoover_S", 
+      "Hrubes_J", 
+      "Jones_C", 
+      "Joy_M", 
+      "Keisler_R", 
+      "Knox_L", 
+      "Lee_A", 
+      "Leitch_E", 
+      "Liu_J", 
+      "Lueker_M", 
+      "Luong-Van_D", 
+      "Mantz_A", 
+      "Marrone_D", 
+      "McDonald_M", 
+      "McMahon_J", 
+      "Mehl_J", 
+      "Meyer_S", 
+      "Mocanu_L", 
+      "Mohr_J", 
+      "Montroy_T", 
+      "Murray_S", 
+      "Natoli_T", 
+      "Padin_S", 
+      "Plagge_T", 
+      "Pryke_C", 
+      "Rest_A", 
+      "Ruel_J", 
+      "Ruhl_J", 
+      "Saliwanchik_B", 
+      "Saro_A", 
+      "Schaffer_K", 
+      "Shaw_L", 
+      "Shirokoff_E", 
+      "Song_J", 
+      "Spieler_H", 
+      "Stalder_B", 
+      "Staniszewski_Z", 
+      "Stark_A", 
+      "Story_K", 
+      "Stubbs_C", 
+      "Suhada_R", 
+      "Engelen_A", 
+      "Vanderlinde_K", 
+      "Vieira_J", 
+      "Vikhlinin_A", 
+      "Williamson_R", 
+      "Zahn_O", 
+      "Zenteno_A"
+    ], 
+    "experts": {
+      "Rabitz_H": [
+        2, 
+        9
+      ], 
+      "Castro_A": [
+        2, 
+        7
+      ], 
+      "Reich_D": [
+        2, 
+        11
+      ], 
+      "Moore_K": [
+        2, 
+        7
+      ], 
+      "Koch_C": [
+        2, 
+        12
+      ]
+    }, 
+    "arxiv_id": "1112.5435", 
+    "title": "Cosmological Constraints from Sunyaev-Zel'dovich-Selected Clusters with\n  X-ray Observations in the First 178 Square Degrees of the South Pole\n  Telescope Survey"
+  }, 
+  "27427": {
+    "specialists": {
+      "MacDonald_A": [
+        0.017839, 
+        1, 
+        4
+      ], 
+      "Sodemann_I": [
+        0.017839, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Prokhorov_D", 
+      "Silk_J"
+    ], 
+    "experts": {}, 
+    "arxiv_id": "1001.0215", 
+    "title": "Can the excess in the FeXXVI Ly gamma line from the Galactic Center\n  provide evidence for 17 keV sterile neutrinos?"
+  }, 
+  "41735": {
+    "specialists": {
+      "Simonov_Y": [
+        0.042707, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Ivashchenko_G", 
+      "Sergijenko_O", 
+      "Torbaniuk_O"
+    ], 
+    "experts": {
+      "Polkovnikov_A": [
+        2, 
+        9
+      ], 
+      "Chen_S": [
+        1, 
+        6
+      ], 
+      "Kolodrubetz_M": [
+        2, 
+        5
+      ], 
+      "Gritsev_V": [
+        2, 
+        6
+      ], 
+      "Liu_W": [
+        1, 
+        7
+      ]
+    }, 
+    "arxiv_id": "1112.6083", 
+    "title": "Improved composite spectra of quasars within the HI Lyα-forest\n  region"
+  }, 
+  "103761": {
+    "specialists": {
+      "Hay_E": [
+        0.014997, 
+        1, 
+        5
+      ], 
+      "Latimer_D": [
+        0.014997, 
+        1, 
+        5
+      ]
+    }, 
+    "authors": [
+      "Mahajan_S", 
+      "Raychaudhury_S", 
+      "Pimbblet_K"
+    ], 
+    "experts": {
+      "Lee_J": [
+        2, 
+        4
+      ], 
+      "Grillakis_M": [
+        2, 
+        13
+      ], 
+      "Margetis_D": [
+        1, 
+        10
+      ], 
+      "Machedon_M": [
+        2, 
+        13
+      ], 
+      "Chen_X": [
+        2, 
+        18
+      ]
+    }, 
+    "arxiv_id": "1209.0972", 
+    "title": "Plunging fireworks: Why do infalling galaxies light up on the outskirts\n  of clusters?"
+  }, 
+  "79691": {
+    "specialists": {
+      "Protopopov_I": [
+        0.288603, 
+        1, 
+        5
+      ], 
+      "Gutman_D": [
+        0.288603, 
+        1, 
+        5
+      ], 
+      "Mirlin_A": [
+        0.288603, 
+        1, 
+        5
+      ]
+    }, 
+    "authors": [
+      "Son_D", 
+      "Spivak_B"
+    ], 
+    "experts": {
+      "Agarwal_G": [
+        3, 
+        18
+      ], 
+      "Sperling_J": [
+        3, 
+        20
+      ], 
+      "Vogel_W": [
+        3, 
+        29
+      ], 
+      "Kiesel_T": [
+        2, 
+        10
+      ], 
+      "Bartkowiak_M": [
+        1, 
+        5
+      ]
+    }, 
+    "arxiv_id": "1206.1627", 
+    "title": "Chiral Anomaly and Classical Negative Magnetoresistance of Weyl Metals"
+  }, 
+  "112247": {
+    "specialists": {
+      "Quataert_E": [
+        0.058267, 
+        1, 
+        14
+      ], 
+      "McCourt_M": [
+        0.058267, 
+        1, 
+        14
+      ], 
+      "Sharma_P": [
+        0.058267, 
+        1, 
+        14
+      ], 
+      "Parrish_I": [
+        0.058267, 
+        1, 
+        14
+      ]
+    }, 
+    "authors": [
+      "Jian-Guo_W", 
+      "Hong-Yan_Z", 
+      "Jian_G", 
+      "Peng_J", 
+      "Hong-Lin_L", 
+      "Xavier_P", 
+      "Fred_H", 
+      "Hui-Yuan_W", 
+      "Ting-Gui_W", 
+      "WeiMin_Y"
+    ], 
+    "experts": {
+      "Starrfield_S": [
+        3, 
+        38
+      ], 
+      "Page_K": [
+        4, 
+        45
+      ], 
+      "Osborne_J": [
+        3, 
+        36
+      ], 
+      "Ness_J": [
+        3, 
+        38
+      ], 
+      "Drake_J": [
+        3, 
+        35
+      ]
+    }, 
+    "arxiv_id": "1210.1154", 
+    "title": "A Metal-Strong and Dust-Rich Damped \\lya Absorption System toward the\n  Quasar SDSS J115705.52+615521.7"
+  }, 
+  "42432": {
+    "specialists": {
+      "Kohler_S": [
+        0.032795, 
+        1, 
+        4
+      ], 
+      "Begelman_M": [
+        0.032795, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Mooij_S", 
+      "Postma_M"
+    ], 
+    "experts": {
+      "Arzano_M": [
+        3, 
+        24
+      ], 
+      "Kowalski-Glikman_J": [
+        5, 
+        61
+      ], 
+      "Smolin_L": [
+        2, 
+        32
+      ], 
+      "Rosati_G": [
+        3, 
+        45
+      ], 
+      "Amelino-Camelia_G": [
+        5, 
+        83
+      ]
+    }, 
+    "arxiv_id": "1104.4897", 
+    "title": "Goldstone bosons in Higgs inflation"
+  }, 
+  "154275": {
+    "specialists": {
+      "Smirnov_J": [
+        0.035755, 
+        1, 
+        9
+      ], 
+      "Lindner_M": [
+        0.035755, 
+        1, 
+        9
+      ], 
+      "Kartavtsev_A": [
+        0.035755, 
+        1, 
+        9
+      ], 
+      "Jeong_D": [
+        0.124483, 
+        1, 
+        9
+      ], 
+      "Kamionkowski_M": [
+        0.124483, 
+        1, 
+        9
+      ], 
+      "Akhmedov_E": [
+        0.035755, 
+        1, 
+        9
+      ], 
+      "Michaels_L": [
+        0.035755, 
+        1, 
+        9
+      ]
+    }, 
+    "authors": [
+      "Araya_I", 
+      "Padilla_N"
+    ], 
+    "experts": {
+      "Espaillat_C": [
+        5, 
+        69
+      ], 
+      "Ercolano_B": [
+        5, 
+        58
+      ], 
+      "Owen_J": [
+        4, 
+        52
+      ], 
+      "Calvet_N": [
+        4, 
+        52
+      ], 
+      "D'Alessio_P": [
+        4, 
+        45
+      ]
+    }, 
+    "arxiv_id": "1302.5462", 
+    "title": "Dark Matter annihilation energy output and its effects on the high-z IGM"
+  }, 
+  "83760": {
+    "specialists": {
+      "McQuinn_M": [
+        0.122642, 
+        1, 
+        3
+      ]
+    }, 
+    "authors": [
+      "Ogiya_G", 
+      "Mori_M"
+    ], 
+    "experts": {
+      "Adroja_D": [
+        1, 
+        4
+      ], 
+      "Hillier_A": [
+        1, 
+        4
+      ], 
+      "Anand_V": [
+        1, 
+        5
+      ], 
+      "Taylor_J": [
+        1, 
+        3
+      ], 
+      "Andre_G": [
+        1, 
+        3
+      ]
+    }, 
+    "arxiv_id": "1206.5412", 
+    "title": "The Core-Cusp Problem in Cold Dark Matter Halos and Supernova Feedback:   Effects of Oscillation"
+  }, 
+  "136780": {
+    "specialists": {
+      "Kharzeev_D": [
+        0.106640, 
+        1, 
+        5
+      ], 
+      "Yee_H": [
+        0.106640, 
+        1, 
+        5
+      ]
+    }, 
+    "authors": [
+      "Alexander_S", 
+      "Marciano_A", 
+      "Smolin_L"
+    ], 
+    "experts": {
+      "Hatzinikitas_A": [
+        1, 
+        1
+      ]
+    }, 
+    "arxiv_id": "1212.5246", 
+    "title": "Gravitational origin of the weak interaction's chirality"
+  }, 
+  "35185": {
+    "specialists": {
+      "Xing_Z": [
+        0.015103, 
+        1, 
+        4
+      ], 
+      "Zhang_H": [
+        0.015103, 
+        1, 
+        4
+      ], 
+      "Zhou_S": [
+        0.015103, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Sachdev_S"
+    ], 
+    "experts": {
+      "Skomorowski_W": [
+        1, 
+        4
+      ], 
+      "Stein_A": [
+        2, 
+        7
+      ], 
+      "Tiemann_E": [
+        2, 
+        7
+      ], 
+      "Moszynski_R": [
+        1, 
+        4
+      ], 
+      "Knockel_H": [
+        2, 
+        7
+      ]
+    }, 
+    "arxiv_id": "1107.5321", 
+    "title": "A model of a Fermi liquid using gauge-gravity duality"
+  }, 
+  "159604": {
+    "specialists": {
+      "Bonamente_M": [
+        0.135140, 
+        1, 
+        10
+      ], 
+      "Joy_M": [
+        0.135140, 
+        1, 
+        10
+      ], 
+      "Maughan_B": [
+        0.135140, 
+        1, 
+        10
+      ], 
+      "Nevalainen_J": [
+        0.135140, 
+        1, 
+        10
+      ], 
+      "Landry_D": [
+        0.135140, 
+        1, 
+        10
+      ], 
+      "Giles_P": [
+        0.135140, 
+        1, 
+        10
+      ]
+    }, 
+    "authors": [
+      "Kopp_J", 
+      "Machado_P", 
+      "Maltoni_M", 
+      "Schwetz_T"
+    ], 
+    "experts": {
+      "Sloan_G": [
+        3, 
+        21
+      ], 
+      "Meixner_M": [
+        5, 
+        41
+      ], 
+      "Srinivasan_S": [
+        5, 
+        43
+      ], 
+      "Matsuura_M": [
+        3, 
+        19
+      ], 
+      "Sargent_B": [
+        4, 
+        35
+      ]
+    }, 
+    "arxiv_id": "1303.3011", 
+    "title": "Sterile Neutrino Oscillations: The Global Picture"
+  }, 
+  "79415": {
+    "specialists": {
+      "Sparre_M": [
+        0.064819, 
+        1, 
+        4
+      ], 
+      "Hansen_S": [
+        0.064819, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Gerard_J", 
+      "Mertens_P"
+    ], 
+    "experts": {
+      "Okazaki_A": [
+        4, 
+        34
+      ], 
+      "Groh_J": [
+        6, 
+        67
+      ], 
+      "Madura_T": [
+        6, 
+        64
+      ], 
+      "Owocki_S": [
+        4, 
+        39
+      ], 
+      "Parkin_E": [
+        4, 
+        43
+      ]
+    }, 
+    "arxiv_id": "1206.0914", 
+    "title": "Weakly-induced strong CP-violation"
+  }, 
+  "57902": {
+    "specialists": {
+      "Huang_Z": [
+        0.041832, 
+        1, 
+        3
+      ]
+    }, 
+    "authors": [
+      "Blennow_M", 
+      "Schwetz_T"
+    ], 
+    "experts": {
+      "Barnard_R": [
+        5, 
+        42
+      ], 
+      "Garcia_M": [
+        5, 
+        42
+      ], 
+      "Kundu_A": [
+        6, 
+        54
+      ], 
+      "Zepf_S": [
+        5, 
+        47
+      ], 
+      "Murray_S": [
+        5, 
+        45
+      ]
+    }, 
+    "arxiv_id": "1203.3388", 
+    "title": "Identifying the Neutrino mass Ordering with INO and NOvA"
+  }, 
+  "44877": {
+    "specialists": {
+      "Natoli_T": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Shirokoff_E": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Lee_A": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Foley_R": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "George_E": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "High_F": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Hoover_S": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Chang_C": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Marrone_D": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Suhada_R": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Aird_K": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Holzapfel_W": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Saro_A": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Crites_A": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Song_J": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Engelen_A": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Dobbs_M": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Ruhl_J": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Stalder_B": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Schaffer_K": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Desai_S": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Rest_A": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Knox_L": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Stubbs_C": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Bazin_G": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Hrubes_J": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Murray_S": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Armstrong_R": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Lueker_M": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Reichardt_C": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Mocanu_L": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Luong-Van_D": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Liu_J": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Shaw_L": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Crawford_T": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Vikhlinin_A": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Pryke_C": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Keisler_R": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Halverson_N": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Haan_T": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Zahn_O": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Andersson_K": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Mehl_J": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Plagge_T": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Meyer_S": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Clocchiatti_A": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Leitch_E": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Bautz_M": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Story_K": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Gladders_M": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Mantz_A": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Benson_B": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Ruel_J": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Montroy_T": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Holder_G": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Jones_C": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Spieler_H": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Vanderlinde_K": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Brodwin_M": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Carlstrom_J": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Vieira_J": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Stark_A": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Zenteno_A": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Mohr_J": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Joy_M": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Saliwanchik_B": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Bleem_L": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Williamson_R": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Bayliss_M": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Padin_S": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Dudley_J": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Staniszewski_Z": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "McDonald_M": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "McMahon_J": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Cho_H": [
+        0.000579, 
+        1, 
+        79
+      ], 
+      "Forman_W": [
+        0.000579, 
+        1, 
+        79
+      ]
+    }, 
+    "authors": [
+      "Petraki_K", 
+      "Trodden_M", 
+      "Volkas_R"
+    ], 
+    "experts": {
+      "Rabitz_H": [
+        2, 
+        9
+      ], 
+      "Castro_A": [
+        2, 
+        7
+      ], 
+      "Reich_D": [
+        2, 
+        11
+      ], 
+      "Moore_K": [
+        2, 
+        7
+      ], 
+      "Koch_C": [
+        2, 
+        12
+      ]
+    }, 
+    "arxiv_id": "1111.4786", 
+    "title": "Visible and dark matter from a first-order phase transition in a\n  baryon-symmetric universe"
+  }, 
+  "158364": {
+    "specialists": {
+      "Totani_T": [
+        0.088456, 
+        1, 
+        16
+      ], 
+      "Suzuki_H": [
+        0.088456, 
+        1, 
+        16
+      ], 
+      "Yamada_S": [
+        0.088456, 
+        1, 
+        16
+      ], 
+      "Nakazato_K": [
+        0.088456, 
+        1, 
+        16
+      ], 
+      "Sumiyoshi_K": [
+        0.088456, 
+        1, 
+        16
+      ], 
+      "Umeda_H": [
+        0.088456, 
+        1, 
+        16
+      ]
+    }, 
+    "authors": [
+      "Hicks_A", 
+      "Pratt_G", 
+      "Donahue_M", 
+      "Ellingson_E", 
+      "Gladders_M", 
+      "Bohringer_H", 
+      "Yee_H", 
+      "Yan_R", 
+      "Croston_J", 
+      "Gilbank_D"
+    ], 
+    "experts": {
+      "Toschi_A": [
+        1, 
+        6
+      ], 
+      "Ikeda_H": [
+        1, 
+        6
+      ], 
+      "Held_K": [
+        1, 
+        6
+      ], 
+      "Kunes_J": [
+        2, 
+        10
+      ], 
+      "Wissgott_P": [
+        1, 
+        6
+      ]
+    }, 
+    "arxiv_id": "1303.1819", 
+    "title": "The X-ray Properties of Optically Selected Clusters of Galaxies"
+  }, 
+  "50688": {
+    "specialists": {
+      "Mainieri_V": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Lanzuisi_G": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Cappelluti_N": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Merloni_A": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Vignali_C": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Iwasawa_K": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Sanders_D": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Taniguchi_Y": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Salvato_M": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Trump_J": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Koekemoer_A": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Goldstein_M": [
+        0.002873, 
+        1, 
+        22
+      ], 
+      "Lusso_E": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Brusa_M": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Impey_C": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Comastri_A": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Read_N": [
+        0.002873, 
+        1, 
+        22
+      ], 
+      "Bradlyn_B": [
+        0.002873, 
+        1, 
+        22
+      ], 
+      "Gilli_R": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Hasinger_G": [
+        0.004015, 
+        1, 
+        22
+      ]
+    }, 
+    "authors": [
+      "Dvornikov_M", 
+      "Semikoz_V"
+    ], 
+    "experts": {
+      "Astier_A": [
+        2, 
+        5
+      ], 
+      "Deloncle_I": [
+        2, 
+        5
+      ], 
+      "Porquet_M": [
+        2, 
+        5
+      ], 
+      "Dorvaux_O": [
+        2, 
+        5
+      ], 
+      "Azaiez_F": [
+        2, 
+        5
+      ]
+    }, 
+    "arxiv_id": "1111.6876", 
+    "title": "Leptogenesis via hypermagnetic fields and baryon asymmetry"
+  }, 
+  "97800": {
+    "specialists": {
+      "Tsagas_C": [
+        0.114653, 
+        1, 
+        5
+      ], 
+      "Yamamoto_K": [
+        0.114653, 
+        1, 
+        5
+      ], 
+      "Barrow_J": [
+        0.114653, 
+        1, 
+        5
+      ]
+    }, 
+    "authors": [
+      "Rieger_F", 
+      "Aharonian_F"
+    ], 
+    "experts": {
+      "Akemann_G": [
+        4, 
+        62
+      ], 
+      "Burda_Z": [
+        3, 
+        27
+      ], 
+      "Ipsen_J": [
+        3, 
+        24
+      ], 
+      "Zyczkowski_K": [
+        3, 
+        29
+      ], 
+      "Kieburg_M": [
+        4, 
+        39
+      ]
+    }, 
+    "arxiv_id": "1208.2702", 
+    "title": "Probing the central black hole in M87 with gamma-rays"
+  }, 
+  "98415": {
+    "specialists": {
+      "Frieman_J": [
+        0.008814, 
+        1, 
+        6
+      ], 
+      "Kravtsov_A": [
+        0.008814, 
+        1, 
+        6
+      ], 
+      "Bernardi_M": [
+        0.008814, 
+        1, 
+        6
+      ], 
+      "Chae_K": [
+        0.008814, 
+        1, 
+        6
+      ]
+    }, 
+    "authors": [
+      "Henley_D", 
+      "Shelton_R"
+    ], 
+    "experts": {
+      "Lee_C": [
+        1, 
+        4
+      ], 
+      "Huet_A": [
+        1, 
+        2
+      ], 
+      "Mateos-Guilarte_J": [
+        1, 
+        2
+      ], 
+      "Min_H": [
+        2, 
+        6
+      ], 
+      "Hur_J": [
+        2, 
+        6
+      ]
+    }, 
+    "arxiv_id": "1002.4631", 
+    "title": "An XMM-Newton Survey of the Soft X-ray Background. I. The O VII and O\n  VIII Lines Between l=120 and l=240"
+  }, 
+  "140739": {
+    "specialists": {
+      "Cally_P": [
+        0.005405, 
+        1, 
+        5
+      ], 
+      "Khomenko_E": [
+        0.005405, 
+        1, 
+        5
+      ], 
+      "Zubkov_M": [
+        0.022789, 
+        1, 
+        5
+      ]
+    }, 
+    "authors": [
+      "Mukohyama_S", 
+      "Uzan_J"
+    ], 
+    "experts": {
+      "Fuks_B": [
+        2, 
+        12
+      ], 
+      "Andrea_J": [
+        2, 
+        9
+      ], 
+      "Maltoni_F": [
+        1, 
+        6
+      ], 
+      "Conte_E": [
+        2, 
+        5
+      ], 
+      "Mukhopadhyaya_B": [
+        1, 
+        5
+      ]
+    }, 
+    "arxiv_id": "1301.1361", 
+    "title": "From configuration to dynamics -- Emergence of Lorentz signature in\n  classical field theory"
+  }, 
+  "79181": {
+    "specialists": {
+      "Huterer_D": [
+        0.121908, 
+        1, 
+        2
+      ]
+    }, 
+    "authors": [
+      "Tuchin_K"
+    ], 
+    "experts": {
+      "Loeb_A": [
+        4, 
+        23
+      ], 
+      "MacFadyen_A": [
+        2, 
+        9
+      ], 
+      "Yunes_N": [
+        2, 
+        9
+      ], 
+      "Haiman_Z": [
+        4, 
+        28
+      ], 
+      "Kocsis_B": [
+        4, 
+        28
+      ]
+    }, 
+    "arxiv_id": "1206.0485", 
+    "title": "Electromagnetic radiation by quark-gluon plasma in magnetic field"
+  }, 
+  "32080": {
+    "specialists": {
+      "Bilenky_S": [
+        0.085640, 
+        1, 
+        5
+      ], 
+      "Giunti_C": [
+        0.085640, 
+        1, 
+        5
+      ]
+    }, 
+    "authors": [
+      "Libanov_M", 
+      "Mironov_S", 
+      "Rubakov_V"
+    ], 
+    "experts": {
+      "Kaviraj_S": [
+        1, 
+        3
+      ], 
+      "Silk_J": [
+        1, 
+        3
+      ], 
+      "Shabala_S": [
+        1, 
+        3
+      ], 
+      "Best_P": [
+        1, 
+        9
+      ], 
+      "Heckman_T": [
+        1, 
+        9
+      ]
+    }, 
+    "arxiv_id": "1105.6230", 
+    "title": "Non-Gaussianity of scalar perturbations generated by conformal\n  mechanisms"
+  }, 
+  "113466": {
+    "specialists": {
+      "Kusenko_A": [
+        0.026094, 
+        1, 
+        7
+      ], 
+      "Yanagida_T": [
+        0.026094, 
+        1, 
+        7
+      ], 
+      "Loewenstein_M": [
+        0.026094, 
+        1, 
+        7
+      ]
+    }, 
+    "authors": [
+      "Riemer-Sorensen_S", 
+      "Parkinson_D", 
+      "Davis_T", 
+      "Blake_C"
+    ], 
+    "experts": {
+      "Bradler_K": [
+        2, 
+        4
+      ], 
+      "Downes_T": [
+        1, 
+        3
+      ], 
+      "Myers_C": [
+        2, 
+        12
+      ], 
+      "Pienaar_J": [
+        1, 
+        3
+      ], 
+      "Ralph_T": [
+        2, 
+        15
+      ]
+    }, 
+    "arxiv_id": "1210.2131", 
+    "title": "Simultaneous constraints on the number and mass of relativistic species"
+  }, 
+  "41998": {
+    "specialists": {
+      "Garcia-Bellido_J": [
+        0.042440, 
+        1, 
+        6
+      ], 
+      "Rubio_J": [
+        0.042440, 
+        1, 
+        6
+      ], 
+      "Shaposhnikov_M": [
+        0.042440, 
+        1, 
+        6
+      ]
+    }, 
+    "authors": [
+      "Muller_W", 
+      "Malapa_S", 
+      "Busse_A"
+    ], 
+    "experts": {
+      "Brummell_N": [
+        1, 
+        3
+      ], 
+      "Traxler_A": [
+        1, 
+        3
+      ], 
+      "Stellmach_S": [
+        1, 
+        3
+      ], 
+      "Radko_T": [
+        1, 
+        3
+      ], 
+      "Garaud_P": [
+        1, 
+        3
+      ]
+    }, 
+    "arxiv_id": "1201.0717", 
+    "title": "The inverse cascade of magnetic helicity in magnetohydrodynamic\n  turbulence"
+  }, 
+  "34429": {
+    "specialists": {
+      "Garny_M": [
+        0.100766, 
+        1, 
+        4
+      ], 
+      "Ibarra_A": [
+        0.100766, 
+        1, 
+        4
+      ], 
+      "Tran_D": [
+        0.100766, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Benedetti_D"
+    ], 
+    "experts": {
+      "Ivanov_E": [
+        2, 
+        9
+      ], 
+      "Bellucci_S": [
+        2, 
+        7
+      ], 
+      "Zupnik_B": [
+        2, 
+        9
+      ], 
+      "Kuzenko_S": [
+        2, 
+        14
+      ], 
+      "Krivonos_S": [
+        2, 
+        7
+      ]
+    }, 
+    "arxiv_id": "1107.3110", 
+    "title": "Asymptotic safety goes on shell"
+  }, 
+  "41044": {
+    "specialists": {
+      "Zdziarski_A": [
+        0.133508, 
+        1, 
+        7
+      ], 
+      "Niedzwiecki_A": [
+        0.133508, 
+        1, 
+        7
+      ], 
+      "Xie_F": [
+        0.133508, 
+        1, 
+        7
+      ]
+    }, 
+    "authors": [
+      "Drichko_I", 
+      "Smirnov_I", 
+      "Suslov_A", 
+      "Leadley_D"
+    ], 
+    "experts": {
+      "Pokorski_S": [
+        3, 
+        23
+      ], 
+      "Shafi_Q": [
+        5, 
+        75
+      ], 
+      "Badziak_M": [
+        3, 
+        36
+      ], 
+      "Raza_S": [
+        4, 
+        41
+      ], 
+      "Gogoladze_I": [
+        5, 
+        62
+      ]
+    }, 
+    "arxiv_id": "1112.0743", 
+    "title": "Acoustic Studies of AC Conductivity Mechanisms in $n$-GaAs/AlGaAs in the\n  Integer and Fractional Quantum Hall Effect Regime"
+  }, 
+  "40279": {
+    "specialists": {
+      "Hansen_R": [
+        0.092545, 
+        1, 
+        8
+      ], 
+      "Tram_T": [
+        0.092545, 
+        1, 
+        8
+      ], 
+      "Hannestad_S": [
+        0.092545, 
+        1, 
+        8
+      ]
+    }, 
+    "authors": [
+      "Wharton_R", 
+      "Chatterjee_S", 
+      "Cordes_J", 
+      "Deneva_J", 
+      "Lazio_T"
+    ], 
+    "experts": {
+      "Takayoshi_S": [
+        1, 
+        1
+      ], 
+      "Oka_T": [
+        1, 
+        1
+      ], 
+      "Sengupta_P": [
+        1, 
+        1
+      ], 
+      "Wierschem_K": [
+        1, 
+        1
+      ], 
+      "Aoki_H": [
+        1, 
+        1
+      ]
+    }, 
+    "arxiv_id": "1111.4216", 
+    "title": "Multiwavelength Constraints on Pulsar Populations in the Galactic Center"
+  }, 
+  "116357": {
+    "specialists": {
+      "Hardcastle_M": [
+        0.019392, 
+        1, 
+        7
+      ], 
+      "Pudritz_R": [
+        0.019392, 
+        1, 
+        7
+      ], 
+      "Gabuzda_D": [
+        0.019392, 
+        1, 
+        7
+      ]
+    }, 
+    "authors": [
+      "Chan_A", 
+      "Hughes_T", 
+      "Ryu_S", 
+      "Fradkin_E"
+    ], 
+    "experts": {
+      "Fraczek_K": [
+        1, 
+        1
+      ], 
+      "Forni_G": [
+        1, 
+        1
+      ], 
+      "Schmidt_T": [
+        1, 
+        1
+      ], 
+      "Thompson_J": [
+        1, 
+        1
+      ], 
+      "Arnoux_P": [
+        1, 
+        1
+      ]
+    }, 
+    "arxiv_id": "1210.4305", 
+    "title": "Effective field theories for topological insulators by functional\n  bosonization"
+  }, 
+  "110428": {
+    "specialists": {
+      "Apunevych_S": [
+        0.004811, 
+        1, 
+        5
+      ], 
+      "Kulinich_Y": [
+        0.004811, 
+        1, 
+        5
+      ], 
+      "Novosyadlyj_B": [
+        0.004811, 
+        1, 
+        5
+      ]
+    }, 
+    "authors": [
+      "Cho_J", 
+      "Yoo_H"
+    ], 
+    "experts": {
+      "Charnay_B": [
+        4, 
+        52
+      ], 
+      "Wordsworth_R": [
+        5, 
+        79
+      ], 
+      "Forget_F": [
+        5, 
+        73
+      ], 
+      "Millour_E": [
+        5, 
+        68
+      ], 
+      "Madeleine_J": [
+        4, 
+        51
+      ]
+    }, 
+    "arxiv_id": "1209.6130", 
+    "title": "Growth of a localized seed magnetic field in a turbulent medium"
+  }, 
+  "43081": {
+    "specialists": {
+      "Schwetz_T": [
+        0.041832, 
+        1, 
+        3
+      ], 
+      "Blennow_M": [
+        0.041832, 
+        1, 
+        3
+      ]
+    }, 
+    "authors": [
+      "Huang_Z"
+    ], 
+    "experts": {
+      "Barnard_R": [
+        5, 
+        42
+      ], 
+      "Garcia_M": [
+        5, 
+        42
+      ], 
+      "Kundu_A": [
+        6, 
+        54
+      ], 
+      "Zepf_S": [
+        5, 
+        47
+      ], 
+      "Murray_S": [
+        5, 
+        45
+      ]
+    }, 
+    "arxiv_id": "1201.5961", 
+    "title": "A Cosmology Forecast Toolkit -- CosmoLib"
+  }, 
+  "72294": {
+    "specialists": {
+      "Fradkin_E": [
+        0.019392, 
+        1, 
+        7
+      ], 
+      "Chan_A": [
+        0.019392, 
+        1, 
+        7
+      ], 
+      "Hughes_T": [
+        0.019392, 
+        1, 
+        7
+      ], 
+      "Ryu_S": [
+        0.019392, 
+        1, 
+        7
+      ]
+    }, 
+    "authors": [
+      "Pudritz_R", 
+      "Hardcastle_M", 
+      "Gabuzda_D"
+    ], 
+    "experts": {
+      "Fraczek_K": [
+        1, 
+        1
+      ], 
+      "Forni_G": [
+        1, 
+        1
+      ], 
+      "Schmidt_T": [
+        1, 
+        1
+      ], 
+      "Thompson_J": [
+        1, 
+        1
+      ], 
+      "Arnoux_P": [
+        1, 
+        1
+      ]
+    }, 
+    "arxiv_id": "1205.2073", 
+    "title": "Magnetic Fields in Astrophysical Jets: From Launch to Termination"
+  }, 
+  "77643": {
+    "specialists": {
+      "Rufino_M": [
+        0.135786, 
+        1, 
+        6
+      ], 
+      "Chalker_J": [
+        0.135786, 
+        1, 
+        6
+      ], 
+      "Kovrizhin_D": [
+        0.135786, 
+        1, 
+        6
+      ]
+    }, 
+    "authors": [
+      "Casadio_R", 
+      "Micu_O", 
+      "Orlandi_A"
+    ], 
+    "experts": {
+      "Croft_S": [
+        4, 
+        36
+      ], 
+      "Wright_M": [
+        4, 
+        34
+      ], 
+      "Law_C": [
+        4, 
+        36
+      ], 
+      "Bower_G": [
+        4, 
+        48
+      ], 
+      "Williams_P": [
+        4, 
+        36
+      ]
+    }, 
+    "arxiv_id": "1205.6303", 
+    "title": "Minimum black hole mass from colliding Gaussian packets"
+  }, 
+  "42556": {
+    "specialists": {
+      "Tsuboi_Z": [
+        0.059979, 
+        1, 
+        8
+      ], 
+      "Alexandrov_A": [
+        0.059979, 
+        1, 
+        8
+      ], 
+      "Leurent_S": [
+        0.059979, 
+        1, 
+        8
+      ], 
+      "Zabrodin_A": [
+        0.059979, 
+        1, 
+        8
+      ], 
+      "Kazakov_V": [
+        0.059979, 
+        1, 
+        8
+      ]
+    }, 
+    "authors": [
+      "McKinney_J", 
+      "Tchekhovskoy_A", 
+      "Blandford_R"
+    ], 
+    "experts": {
+      "Barbosa_F": [
+        2, 
+        7
+      ], 
+      "Nussenzveig_P": [
+        2, 
+        7
+      ], 
+      "Martinelli_M": [
+        2, 
+        7
+      ], 
+      "Cassemiro_K": [
+        2, 
+        7
+      ], 
+      "Coelho_A": [
+        2, 
+        7
+      ]
+    }, 
+    "arxiv_id": "1201.4163", 
+    "title": "General Relativistic Magnetohydrodynamic Simulations of Magnetically\n  Choked Accretion Flows around Black Holes"
+  }, 
+  "142245": {
+    "specialists": {
+      "Vandoren_S": [
+        0.131245, 
+        1, 
+        3
+      ], 
+      "Haghighat_B": [
+        0.131245, 
+        1, 
+        3
+      ]
+    }, 
+    "authors": [
+      "Oda_I"
+    ], 
+    "experts": {
+      "Schwope_A": [
+        2, 
+        6
+      ], 
+      "Pacaud_F": [
+        2, 
+        6
+      ], 
+      "Lamer_G": [
+        2, 
+        6
+      ], 
+      "Clerc_N": [
+        2, 
+        6
+      ], 
+      "Pierre_M": [
+        2, 
+        6
+      ]
+    }, 
+    "arxiv_id": "1301.2709", 
+    "title": "Classically Scale-invariant B-L Model and Dilaton Gravity"
+  }, 
+  "34218": {
+    "specialists": {
+      "Yao_Y": [
+        0.095600, 
+        1, 
+        9
+      ], 
+      "Cabot_S": [
+        0.095600, 
+        1, 
+        9
+      ], 
+      "Wang_Q": [
+        0.095600, 
+        1, 
+        9
+      ]
+    }, 
+    "authors": [
+      "Scott_P", 
+      "Venkatesan_A", 
+      "Roebber_E", 
+      "Gondolo_P", 
+      "Pierpaoli_E", 
+      "Holder_G"
+    ], 
+    "experts": {
+      "Flambaum_V": [
+        1, 
+        3
+      ], 
+      "Schwerdtfeger_P": [
+        1, 
+        3
+      ], 
+      "Ilias_M": [
+        1, 
+        3
+      ], 
+      "Dzuba_V": [
+        1, 
+        3
+      ], 
+      "Borschevsky_A": [
+        1, 
+        3
+      ]
+    }, 
+    "arxiv_id": "1107.1714", 
+    "title": "Impacts of Dark Stars on Reionization and Signatures in the Cosmic\n  Microwave Background"
+  }, 
+  "152681": {
+    "specialists": {
+      "Prokhorov_D": [
+        0.017839, 
+        1, 
+        4
+      ], 
+      "Silk_J": [
+        0.017839, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Sodemann_I", 
+      "MacDonald_A"
+    ], 
+    "experts": {}, 
+    "arxiv_id": "1302.3896", 
+    "title": "Landau Level Mixing and the Fractional Quantum Hall Effect"
+  }, 
+  "72663": {
+    "specialists": {
+      "Tellez_G": [
+        0.030518, 
+        1, 
+        6
+      ], 
+      "Forrester_P": [
+        0.030518, 
+        1, 
+        6
+      ]
+    }, 
+    "authors": [
+      "Walker_S", 
+      "Fabian_A", 
+      "Sanders_J", 
+      "George_M"
+    ], 
+    "experts": {
+      "Giudici_M": [
+        1, 
+        1
+      ], 
+      "Ghorpade_S": [
+        1, 
+        1
+      ], 
+      "Royle_G": [
+        1, 
+        1
+      ], 
+      "Tanaka_R": [
+        1, 
+        1
+      ], 
+      "Tanaka_H": [
+        1, 
+        1
+      ]
+    }, 
+    "arxiv_id": "1205.2276", 
+    "title": "Further X-ray observations of the galaxy cluster PKS 0745-191 to the\n  virial radius and beyond"
+  }, 
+  "52335": {
+    "specialists": {
+      "Fortin_J": [
+        0.066527, 
+        1, 
+        9
+      ], 
+      "Roux_G": [
+        0.314865, 
+        1, 
+        9
+      ], 
+      "Barmettler_P": [
+        0.314865, 
+        1, 
+        9
+      ], 
+      "Kollath_C": [
+        0.314865, 
+        1, 
+        9
+      ], 
+      "Stergiou_A": [
+        0.066527, 
+        1, 
+        9
+      ], 
+      "Poletti_D": [
+        0.314865, 
+        1, 
+        9
+      ], 
+      "Bernier_J": [
+        0.314865, 
+        1, 
+        9
+      ], 
+      "Grinstein_B": [
+        0.066527, 
+        1, 
+        9
+      ]
+    }, 
+    "authors": [
+      "Soucail_G"
+    ], 
+    "experts": {
+      "Kramer_M": [
+        7, 
+        171
+      ], 
+      "Guillemot_L": [
+        7, 
+        182
+      ], 
+      "Romani_R": [
+        8, 
+        172
+      ], 
+      "Ray_P": [
+        8, 
+        214
+      ], 
+      "Camilo_F": [
+        7, 
+        179
+      ]
+    }, 
+    "arxiv_id": "1203.0229", 
+    "title": "Dark matter distribution in the merging cluster Abell 2163"
+  }, 
+  "105880": {
+    "specialists": {
+      "Moore_B": [
+        0.005140, 
+        1, 
+        8
+      ], 
+      "Teyssier_R": [
+        0.005140, 
+        1, 
+        8
+      ], 
+      "Wentz_T": [
+        0.005140, 
+        1, 
+        8
+      ], 
+      "Martizzi_D": [
+        0.005140, 
+        1, 
+        8
+      ]
+    }, 
+    "authors": [
+      "Alonso_R", 
+      "Dhen_M", 
+      "Gavela_M", 
+      "Hambye_T"
+    ], 
+    "experts": {
+      "Mataloni_P": [
+        4, 
+        48
+      ], 
+      "Sciarrino_F": [
+        4, 
+        48
+      ], 
+      "Vitelli_C": [
+        4, 
+        48
+      ], 
+      "Spagnolo_N": [
+        4, 
+        48
+      ], 
+      "Ramponi_R": [
+        4, 
+        48
+      ]
+    }, 
+    "arxiv_id": "1209.2679", 
+    "title": "Muon conversion to electron in nuclei in type-I seesaw models"
+  }, 
+  "155729": {
+    "specialists": {
+      "Famaey_B": [
+        0.033889, 
+        1, 
+        10
+      ], 
+      "Angus_G": [
+        0.033889, 
+        1, 
+        10
+      ], 
+      "Blok_W": [
+        0.033889, 
+        1, 
+        10
+      ], 
+      "Gentile_G": [
+        0.033889, 
+        1, 
+        10
+      ], 
+      "Oh_S": [
+        0.033889, 
+        1, 
+        10
+      ]
+    }, 
+    "authors": [
+      "Archidiacono_M", 
+      "Fornengo_N", 
+      "Giunti_C", 
+      "Hannestad_S", 
+      "Melchiorri_A"
+    ], 
+    "experts": {
+      "Kosovichev_A": [
+        1, 
+        5
+      ], 
+      "Zhao_J": [
+        1, 
+        5
+      ], 
+      "Birch_A": [
+        1, 
+        7
+      ], 
+      "Hartlep_T": [
+        1, 
+        5
+      ], 
+      "Gizon_L": [
+        1, 
+        6
+      ]
+    }, 
+    "arxiv_id": "1302.6720", 
+    "title": "Sterile Neutrinos: Cosmology vs Short-BaseLine Experiments"
+  }, 
+  "29887": {
+    "specialists": {
+      "Isidori_G": [
+        0.017318, 
+        1, 
+        8
+      ], 
+      "Strumia_A": [
+        0.017318, 
+        1, 
+        8
+      ], 
+      "Giudice_G": [
+        0.017318, 
+        1, 
+        8
+      ], 
+      "Elias-Miro_J": [
+        0.017318, 
+        1, 
+        8
+      ], 
+      "Espinosa_J": [
+        0.017318, 
+        1, 
+        8
+      ], 
+      "Riotto_A": [
+        0.017318, 
+        1, 
+        8
+      ]
+    }, 
+    "authors": [
+      "Laiho_J", 
+      "Coumbe_D"
+    ], 
+    "experts": {
+      "Reeves_J": [
+        6, 
+        137
+      ], 
+      "Cappi_M": [
+        5, 
+        111
+      ], 
+      "Tombesi_F": [
+        6, 
+        112
+      ], 
+      "Braito_V": [
+        6, 
+        123
+      ], 
+      "Turner_T": [
+        5, 
+        63
+      ]
+    }, 
+    "arxiv_id": "1104.5505", 
+    "title": "Evidence for Asymptotic Safety from Lattice Quantum Gravity"
+  }, 
+  "131585": {
+    "specialists": {
+      "Son_D": [
+        0.288603, 
+        1, 
+        5
+      ], 
+      "Spivak_B": [
+        0.288603, 
+        1, 
+        5
+      ]
+    }, 
+    "authors": [
+      "Protopopov_I", 
+      "Gutman_D", 
+      "Mirlin_A"
+    ], 
+    "experts": {
+      "Agarwal_G": [
+        3, 
+        18
+      ], 
+      "Sperling_J": [
+        3, 
+        20
+      ], 
+      "Vogel_W": [
+        3, 
+        29
+      ], 
+      "Kiesel_T": [
+        2, 
+        10
+      ], 
+      "Bartkowiak_M": [
+        1, 
+        5
+      ]
+    }, 
+    "arxiv_id": "1212.0708", 
+    "title": "Correlations in non-equilibrium Luttinger liquid and singular Fredholm\n  determinants"
+  }, 
+  "70633": {
+    "specialists": {
+      "DiVincenzo_D": [
+        0.045119, 
+        1, 
+        6
+      ], 
+      "Terhal_B": [
+        0.045119, 
+        1, 
+        6
+      ], 
+      "Hassler_F": [
+        0.045119, 
+        1, 
+        6
+      ]
+    }, 
+    "authors": [
+      "Tempel_E", 
+      "Hektor_A", 
+      "Raidal_M"
+    ], 
+    "experts": {
+      "Chan_C": [
+        1, 
+        2
+      ], 
+      "Rafikov_R": [
+        2, 
+        6
+      ], 
+      "Stone_J": [
+        1, 
+        3
+      ], 
+      "Pessah_M": [
+        1, 
+        2
+      ], 
+      "Belyaev_M": [
+        2, 
+        6
+      ]
+    }, 
+    "arxiv_id": "1205.1045", 
+    "title": "Fermi 130 GeV gamma-ray excess and dark matter annihilation in\n  sub-haloes and in the Galactic centre"
+  }, 
+  "34577": {
+    "specialists": {
+      "Roux_G": [
+        0.033563, 
+        1, 
+        9
+      ], 
+      "Soucail_G": [
+        0.066527, 
+        1, 
+        9
+      ], 
+      "Barmettler_P": [
+        0.033563, 
+        1, 
+        9
+      ], 
+      "Kollath_C": [
+        0.033563, 
+        1, 
+        9
+      ], 
+      "Poletti_D": [
+        0.033563, 
+        1, 
+        9
+      ], 
+      "Bernier_J": [
+        0.033563, 
+        1, 
+        9
+      ]
+    }, 
+    "authors": [
+      "Fortin_J", 
+      "Grinstein_B", 
+      "Stergiou_A"
+    ], 
+    "experts": {
+      "Kramer_M": [
+        7, 
+        171
+      ], 
+      "Guillemot_L": [
+        7, 
+        182
+      ], 
+      "Romani_R": [
+        8, 
+        172
+      ], 
+      "Ray_P": [
+        8, 
+        214
+      ], 
+      "Camilo_F": [
+        7, 
+        179
+      ]
+    }, 
+    "arxiv_id": "1107.3840", 
+    "title": "Scale without Conformal Invariance: Theoretical Foundations"
+  }, 
+  "31946": {
+    "specialists": {
+      "Ingrosso_G": [
+        0.093224, 
+        1, 
+        7
+      ], 
+      "Paolis_F": [
+        0.093224, 
+        1, 
+        7
+      ], 
+      "Manni_L": [
+        0.093224, 
+        1, 
+        7
+      ], 
+      "Nucita_A": [
+        0.093224, 
+        1, 
+        7
+      ], 
+      "Vetrugno_D": [
+        0.093224, 
+        1, 
+        7
+      ]
+    }, 
+    "authors": [
+      "Kharzeev_D", 
+      "Yee_H"
+    ], 
+    "experts": {
+      "Koekemoer_A": [
+        5, 
+        100
+      ], 
+      "Tanaka_M": [
+        6, 
+        130
+      ], 
+      "Lilly_S": [
+        5, 
+        109
+      ], 
+      "Ilbert_O": [
+        5, 
+        101
+      ], 
+      "Peng_Y": [
+        5, 
+        109
+      ]
+    }, 
+    "arxiv_id": "1105.6360", 
+    "title": "Anomalies and time reversal invariance in relativistic hydrodynamics:\n  the second order and higher dimensional formulations"
+  }, 
+  "30816": {
+    "specialists": {
+      "Zaldarriaga_M": [
+        0.103471, 
+        1, 
+        10
+      ], 
+      "Pajer_E": [
+        0.103471, 
+        1, 
+        10
+      ]
+    }, 
+    "authors": [
+      "Einasto_M", 
+      "Liivamagi_L", 
+      "Tago_E", 
+      "Saar_E", 
+      "Tempel_E", 
+      "Einasto_J", 
+      "Martinez_V", 
+      "Heinamaki_P"
+    ], 
+    "experts": {
+      "Koekemoer_A": [
+        6, 
+        103
+      ], 
+      "Dokkum_P": [
+        7, 
+        147
+      ], 
+      "Franx_M": [
+        7, 
+        151
+      ], 
+      "Wel_A": [
+        5, 
+        95
+      ], 
+      "Bell_E": [
+        5, 
+        85
+      ]
+    }, 
+    "arxiv_id": "1105.2124", 
+    "title": "SDSS DR7 superclusters. Morphology"
+  }, 
+  "61311": {
+    "specialists": {
+      "Libanov_M": [
+        0.085640, 
+        1, 
+        5
+      ], 
+      "Mironov_S": [
+        0.085640, 
+        1, 
+        5
+      ], 
+      "Rubakov_V": [
+        0.085640, 
+        1, 
+        5
+      ]
+    }, 
+    "authors": [
+      "Bilenky_S", 
+      "Giunti_C"
+    ], 
+    "experts": {
+      "Kaviraj_S": [
+        1, 
+        3
+      ], 
+      "Silk_J": [
+        1, 
+        3
+      ], 
+      "Shabala_S": [
+        1, 
+        3
+      ], 
+      "Best_P": [
+        1, 
+        9
+      ], 
+      "Heckman_T": [
+        1, 
+        9
+      ]
+    }, 
+    "arxiv_id": "1203.5250", 
+    "title": "Neutrinoless double-beta decay. A brief review"
+  }, 
+  "37066": {
+    "specialists": {
+      "Trugenberger_C": [
+        0.023330, 
+        1, 
+        9
+      ], 
+      "Sodano_P": [
+        0.023330, 
+        1, 
+        9
+      ], 
+      "Diamantini_M": [
+        0.023330, 
+        1, 
+        9
+      ]
+    }, 
+    "authors": [
+      "Hunter_D", 
+      "Zahedy_F", 
+      "Bowsher_E", 
+      "Wilcots_E", 
+      "Kepley_A", 
+      "Gaal_V"
+    ], 
+    "experts": {
+      "Burgio_G": [
+        3, 
+        11
+      ], 
+      "Watson_P": [
+        3, 
+        18
+      ], 
+      "Quandt_M": [
+        3, 
+        16
+      ], 
+      "Reinhardt_H": [
+        5, 
+        67
+      ], 
+      "Heffner_J": [
+        3, 
+        10
+      ]
+    }, 
+    "arxiv_id": "1109.2854", 
+    "title": "Mapping the Extended HI Distribution of Three Dwarf Galaxies"
+  }, 
+  "97276": {
+    "specialists": {
+      "Wang_Z": [
+        0.116428, 
+        1, 
+        4
+      ], 
+      "Wen_X": [
+        0.116428, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Paoletti_D", 
+      "Finelli_F"
+    ], 
+    "experts": {
+      "Markoff_S": [
+        10, 
+        196
+      ], 
+      "Fender_R": [
+        11, 
+        258
+      ], 
+      "Miller-Jones_J": [
+        10, 
+        178
+      ], 
+      "Corbel_S": [
+        8, 
+        164
+      ], 
+      "Russell_D": [
+        9, 
+        212
+      ]
+    }, 
+    "arxiv_id": "1208.2625", 
+    "title": "Constraints on a Stochastic Background of Primordial Magnetic Fields\n  with WMAP and South Pole Telescope data"
+  }, 
+  "28071": {
+    "specialists": {
+      "Zahedy_F": [
+        0.023330, 
+        1, 
+        9
+      ], 
+      "Bowsher_E": [
+        0.023330, 
+        1, 
+        9
+      ], 
+      "Kepley_A": [
+        0.023330, 
+        1, 
+        9
+      ], 
+      "Hunter_D": [
+        0.023330, 
+        1, 
+        9
+      ], 
+      "Wilcots_E": [
+        0.023330, 
+        1, 
+        9
+      ], 
+      "Gaal_V": [
+        0.023330, 
+        1, 
+        9
+      ]
+    }, 
+    "authors": [
+      "Diamantini_M", 
+      "Sodano_P", 
+      "Trugenberger_C"
+    ], 
+    "experts": {
+      "Burgio_G": [
+        3, 
+        11
+      ], 
+      "Watson_P": [
+        3, 
+        18
+      ], 
+      "Quandt_M": [
+        3, 
+        16
+      ], 
+      "Reinhardt_H": [
+        5, 
+        67
+      ], 
+      "Heffner_J": [
+        3, 
+        10
+      ]
+    }, 
+    "arxiv_id": "1104.2485", 
+    "title": "Turning a topological insulator into a superconductor"
+  }, 
+  "39647": {
+    "specialists": {
+      "Read_N": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Bradlyn_B": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Semikoz_V": [
+        0.004015, 
+        1, 
+        22
+      ], 
+      "Goldstein_M": [
+        0.002948, 
+        1, 
+        22
+      ], 
+      "Dvornikov_M": [
+        0.004015, 
+        1, 
+        22
+      ]
+    }, 
+    "authors": [
+      "Iwasawa_K", 
+      "Mainieri_V", 
+      "Brusa_M", 
+      "Comastri_A", 
+      "Gilli_R", 
+      "Vignali_C", 
+      "Hasinger_G", 
+      "Sanders_D", 
+      "Cappelluti_N", 
+      "Impey_C", 
+      "Koekemoer_A", 
+      "Lanzuisi_G", 
+      "Lusso_E", 
+      "Merloni_A", 
+      "Salvato_M", 
+      "Taniguchi_Y", 
+      "Trump_J"
+    ], 
+    "experts": {
+      "Astier_A": [
+        2, 
+        5
+      ], 
+      "Deloncle_I": [
+        2, 
+        5
+      ], 
+      "Porquet_M": [
+        2, 
+        5
+      ], 
+      "Dorvaux_O": [
+        2, 
+        5
+      ], 
+      "Azaiez_F": [
+        2, 
+        5
+      ]
+    }, 
+    "arxiv_id": "1111.2447", 
+    "title": "Fe K emission from active galaxies in the COSMOS field"
+  }, 
+  "62097": {
+    "specialists": {
+      "Xing_Z": [
+        0.099200, 
+        1, 
+        4
+      ], 
+      "Luo_S": [
+        0.099200, 
+        1, 
+        4
+      ]
+    }, 
+    "authors": [
+      "Buchert_T", 
+      "Ostermann_M"
+    ], 
+    "experts": {
+      "Jorstad_S": [
+        2, 
+        28
+      ], 
+      "Fossati_G": [
+        3, 
+        15
+      ], 
+      "Nalewajko_K": [
+        3, 
+        23
+      ], 
+      "Maraschi_L": [
+        3, 
+        18
+      ], 
+      "Madejski_G": [
+        3, 
+        21
+      ]
+    }, 
+    "arxiv_id": "1203.6263", 
+    "title": "Lagrangian theory of structure formation in relativistic cosmology I:\n  Lagrangian framework and definition of a non-perturbative approximation"
+  }, 
+  "45810": {
+    "specialists": {
+      "Henley_D": [
+        0.008814, 
+        1, 
+        6
+      ], 
+      "Shelton_R": [
+        0.008814, 
+        1, 
+        6
+      ]
+    }, 
+    "authors": [
+      "Chae_K", 
+      "Kravtsov_A", 
+      "Frieman_J", 
+      "Bernardi_M"
+    ], 
+    "experts": {
+      "Lee_C": [
+        1, 
+        4
+      ], 
+      "Huet_A": [
+        1, 
+        2
+      ], 
+      "Mateos-Guilarte_J": [
+        1, 
+        2
+      ], 
+      "Min_H": [
+        2, 
+        6
+      ], 
+      "Hur_J": [
+        2, 
+        6
+      ]
+    }, 
+    "arxiv_id": "1202.2716", 
+    "title": "Dark matter density profiles of the halos embedding early-type galaxies:\n  characterizing halo contraction and dark matter annihilation strength"
+  }, 
+  "104228": {
+    "specialists": {
+      "Orlandi_A": [
+        0.135786, 
+        1, 
+        6
+      ], 
+      "Micu_O": [
+        0.135786, 
+        1, 
+        6
+      ], 
+      "Casadio_R": [
+        0.135786, 
+        1, 
+        6
+      ]
+    }, 
+    "authors": [
+      "Rufino_M", 
+      "Kovrizhin_D", 
+      "Chalker_J"
+    ], 
+    "experts": {
+      "Croft_S": [
+        4, 
+        36
+      ], 
+      "Wright_M": [
+        4, 
+        34
+      ], 
+      "Law_C": [
+        4, 
+        36
+      ], 
+      "Bower_G": [
+        4, 
+        48
+      ], 
+      "Williams_P": [
+        4, 
+        36
+      ]
+    }, 
+    "arxiv_id": "1209.1127", 
+    "title": "Solution of a model for the two-channel electronic Mach-Zehnder\n  interferometer"
+  }, 
+  "92843": {
+    "specialists": {
+      "Drago_A": [
+        0.028242, 
+        1, 
+        5
+      ], 
+      "Cuofano_C": [
+        0.028242, 
+        1, 
+        5
+      ], 
+      "Pagliara_G": [
+        0.028242, 
+        1, 
+        5
+      ]
+    }, 
+    "authors": [
+      "Zhao_H", 
+      "Famaey_B"
+    ], 
+    "experts": {
+      "Pont_F": [
+        8, 
+        168
+      ], 
+      "Aigrain_S": [
+        8, 
+        145
+      ], 
+      "Sing_D": [
+        8, 
+        161
+      ], 
+      "Gibson_N": [
+        8, 
+        144
+      ], 
+      "Etangs_A": [
+        8, 
+        115
+      ]
+    }, 
+    "arxiv_id": "1207.6232", 
+    "title": "Unifying all mass discrepancies with one effective gravity law?"
+  }, 
+  "27217": {
+    "specialists": {
+      "Oksanen_M": [
+        0.007398, 
+        1, 
+        6
+      ], 
+      "Chaichian_M": [
+        0.007398, 
+        1, 
+        6
+      ], 
+      "Tureanu_A": [
+        0.007398, 
+        1, 
+        6
+      ]
+    }, 
+    "authors": [
+      "Boyarsky_A", 
+      "Malyshev_D", 
+      "Ruchayskiy_O"
+    ], 
+    "experts": {
+      "Nath_P": [
+        5, 
+        48
+      ], 
+      "Akula_S": [
+        4, 
+        30
+      ], 
+      "Feldman_D": [
+        4, 
+        31
+      ], 
+      "Datta_A": [
+        3, 
+        20
+      ], 
+      "Peim_G": [
+        5, 
+        41
+      ]
+    }, 
+    "arxiv_id": "1012.5839", 
+    "title": "A comment on the emission from the Galactic Center as seen by the Fermi\n  telescope"
+  }, 
+  "37078": {
+    "specialists": {
+      "Boyarsky_A": [
+        0.007398, 
+        1, 
+        6
+      ], 
+      "Ruchayskiy_O": [
+        0.007398, 
+        1, 
+        6
+      ], 
+      "Malyshev_D": [
+        0.007398, 
+        1, 
+        6
+      ]
+    }, 
+    "authors": [
+      "Chaichian_M", 
+      "Oksanen_M", 
+      "Tureanu_A"
+    ], 
+    "experts": {
+      "Nath_P": [
+        5, 
+        48
+      ], 
+      "Akula_S": [
+        4, 
+        30
+      ], 
+      "Feldman_D": [
+        4, 
+        31
+      ], 
+      "Datta_A": [
+        3, 
+        20
+      ], 
+      "Peim_G": [
+        5, 
+        41
+      ]
+    }, 
+    "arxiv_id": "1109.2794", 
+    "title": "On entropic gravity: the entropy postulate, entropy content of screens\n  and relation to quantum mechanics"
+  }, 
+  "150338": {
+    "specialists": {
+      "Kamionkowski_M": [
+        0.045846, 
+        1, 
+        9
+      ], 
+      "Jeong_D": [
+        0.045846, 
+        1, 
+        9
+      ], 
+      "Padilla_N": [
+        0.035755, 
+        1, 
+        9
+      ], 
+      "Araya_I": [
+        0.035755, 
+        1, 
+        9
+      ]
+    }, 
+    "authors": [
+      "Akhmedov_E", 
+      "Kartavtsev_A", 
+      "Lindner_M", 
+      "Michaels_L", 
+      "Smirnov_J"
+    ], 
+    "experts": {
+      "Espaillat_C": [
+        5, 
+        69
+      ], 
+      "Ercolano_B": [
+        5, 
+        58
+      ], 
+      "Owen_J": [
+        4, 
+        52
+      ], 
+      "Calvet_N": [
+        4, 
+        52
+      ], 
+      "D'Alessio_P": [
+        4, 
+        45
+      ]
+    }, 
+    "arxiv_id": "1302.1872", 
+    "title": "Improving Electro-Weak Fits with TeV-scale Sterile Neutrinos"
+  }, 
+  "103551": {
+    "specialists": {
+      "Bird_S": [
+        0.042472, 
+        1, 
+        15
+      ], 
+      "Ali-Haimoud_Y": [
+        0.042472, 
+        1, 
+        15
+      ]
+    }, 
+    "authors": [
+      "Xue_Y", 
+      "Wang_S", 
+      "Brandt_W", 
+      "Luo_B", 
+      "Alexander_D", 
+      "Bauer_F", 
+      "Comastri_A", 
+      "Fabian_A", 
+      "Gilli_R", 
+      "Lehmer_B", 
+      "Schneider_D", 
+      "Vignali_C", 
+      "Young_M"
+    ], 
+    "experts": {
+      "Shpitser_I": [
+        1, 
+        1
+      ], 
+      "VanderWeele_T": [
+        1, 
+        1
+      ], 
+      "Mealli_F": [
+        1, 
+        1
+      ], 
+      "Phipps_P": [
+        1, 
+        1
+      ], 
+      "Mattei_A": [
+        1, 
+        1
+      ]
+    }, 
+    "arxiv_id": "1209.0467", 
+    "title": "Tracking Down the Source Population Responsible for the Unresolved\n  Cosmic 6-8 keV Background"
+  }, 
+  "99951": {
+    "specialists": {
+      "Ogiya_G": [
+        0.122642, 
+        1, 
+        3
+      ], 
+      "Mori_M": [
+        0.122642, 
+        1, 
+        3
+      ]
+    }, 
+    "authors": [
+      "McQuinn_M"
+    ], 
+    "experts": {
+      "Adroja_D": [
+        1, 
+        4
+      ], 
+      "Hillier_A": [
+        1, 
+        4
+      ], 
+      "Anand_V": [
+        1, 
+        5
+      ], 
+      "Taylor_J": [
+        1, 
+        3
+      ], 
+      "Andre_G": [
+        1, 
+        3
+      ]
+    }, 
+    "arxiv_id": "1206.1335", 
+    "title": "Constraints on X-ray Emissions from the Reionization Era"
+  }
+}
