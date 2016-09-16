@@ -16,6 +16,7 @@ function contain(article, substr){
 }
 
 function show_articles(articles){
+    var isin = false;
     var articles = Object.keys(articles).filter(key => contain(articles[key], str)).map(key => articles[key]);
     // articles = Object.keys(articles).filter(key => Object.keys(articles[key]["authors"]).length < articles[key]["specialists"][Object.keys(articles[key]["specialists"])[0]][2] && Object.keys(articles[key]["authors"]).length > 1).map(key => articles[key]); // Filter out articles with len(authors) < 2 and len(authors) >= len(authors in a cluster)
     console.log(articles);
@@ -31,8 +32,8 @@ function show_articles(articles){
     var div = d3.select("#articles");
     var table = div.select("#articles_table");
     table.selectAll("th")
-        .data(['Arxiv ID', 'Title', 'Authors in a cluster', 'Score', 'Specialists', 'Authors', 'Experts', 'h', 'Citations'])
-        // .data(['Arxiv ID', 'Title', 'Authors in a cluster', 'Author\'s articles in a cluster', 'Score', 'Specialists', 'Authors', 'Experts', 'h', 'Citations'])
+        // .data(['Arxiv ID', 'Title', 'Authors in a cluster', 'Score', 'Specialists', 'Authors', 'Experts', 'h', 'Citations'])
+        .data(['Arxiv ID', 'Title', 'Authors in a cluster', 'Author\'s articles in a cluster', 'Score', 'Specialists', 'Authors', 'Experts', 'h', 'Citations'])
         .enter()
         .append("th")
         .style("border", "1px solid gray")
@@ -55,10 +56,10 @@ function show_articles(articles){
         .attr("id", function(d, i) {return "spec_id_" + (i+1).toString()})
         .attr("class", "authors")
         .text(d => d["specialists"][Object.keys(d["specialists"])[0]][2]);
-    // tr.append("td")
-    //     .attr("id", function(d, i) {return "publications_id_" + (i+1).toString()})
-    //     .attr("class", "publications")
-    //     .text(d => Object.keys(d["specialists"]).sort((a, b) => d["specialists"][a][0] < d["specialists"][b][0]).map(key => d["specialists"][key][1].toString()).join('\n'));
+    tr.append("td")
+        .attr("id", function(d, i) {return "publications_id_" + (i+1).toString()})
+        .attr("class", "publications")
+        .text(d => Object.keys(d["specialists"]).sort((a, b) => d["specialists"][a][0] < d["specialists"][b][0]).map(key => d["specialists"][key][1].toString()).join('\n'));
     tr.append("td")
         .attr("id", function(d, i) {return "score_id_" + (i+1).toString()})
         .attr("class", "score")
@@ -66,12 +67,21 @@ function show_articles(articles){
     tr.append("td")
         .attr("id", function(d, i) {return "specialists_id_" + (i+1).toString()})
         .attr("class", "specialists")
-        .html(d => Object.keys(d["specialists"]).sort((a, b) => d["specialists"][a][0] < d["specialists"][b][0] ? 1 : d["specialists"][a][0] > d["specialists"][b][0] ? -1 : 0).slice(0, 5).map(key => (d["authors"].indexOf(key) >= 0) ? '<b style="color:#0">'+key+'</b>' : key).join('\n').split('_').join(' '));
+        .html(d => Object.keys(d["specialists"]).sort((a, b) => d["specialists"][a][0] < d["specialists"][b][0] ? 1 : d["specialists"][a][0] > d["specialists"][b][0] ? -1 : 0).slice(0, 5).map(function(key, i) {
+                // if (d["authors"].indexOf(key) >= 0)
+                //     if (isin == false) {
+                //         isin = true;
+                //         console.log('+1');
+                //     } else {
+                //         isin = false;
+                //     };
+                return (d["authors"].indexOf(key) >= 0) ? '<b style="color:#0">'+key.slice(0, 12)+'</b>' : key.slice(0, 12)
+            }).join('\n').split('_').join(' '));
 
     tr.append("td")
         .attr("id", (d, i) => "auth_id_" + (i+1).toString())
         .attr("class", "authors")
-        .html(d => Object.keys(d["authors"]).slice(0, 5).map(key => d["authors"][key]).join('\n').split('_').join(' '));
+        .html(d => Object.keys(d["authors"]).slice(0, 5).map(key => d["authors"][key].slice(0, 12)).map((k, i) => 1 + i < 5 ? k : '...').join('\n').split('_').join(' '));
 
     tr.append("td")
         .attr("id", (d, i) => "experts_id_" + (i+1).toString())
