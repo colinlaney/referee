@@ -55,7 +55,7 @@ function show_articles(articles){
     tr.append("td")
         .attr("id", function(d, i) {return "spec_id_" + (i+1).toString()})
         .attr("class", "authors")
-        .text(d => d["specialists"][Object.keys(d["specialists"])[0]][2]);
+        .text(function(d){console.log(d["specialists"], d['arxiv_id']); return d["specialists"][Object.keys(d["specialists"])[0]][2]});
     tr.append("td")
         .attr("id", function(d, i) {return "publications_id_" + (i+1).toString()})
         .attr("class", "publications")
@@ -86,7 +86,7 @@ function show_articles(articles){
     tr.append("td")
         .attr("id", (d, i) => "experts_id_" + (i+1).toString())
         .attr("class", "experts")
-        .html(d => Object.keys(d["experts"]).sort((a, b) => d["experts"][a][0] == d["experts"][b][0] ? d["experts"][a][1] < d["experts"][b][1] : d["experts"][a][0] < d["experts"][b][0]).map(key => key).join('\n').split('_').join(' '));
+        .html(d => Object.keys(d["experts"]).sort((a, b) => d["experts"][a][0] == d["experts"][b][0] ? d["experts"][a][1] < d["experts"][b][1] : d["experts"][a][0] < d["experts"][b][0]).map(key => key.slice(0, 12)).join('\n').split('_').join(' '));
     tr.append("td")
         .attr("id", function(d, i) {return "h_id_" + (i+1).toString()})
         .attr("class", "h")
