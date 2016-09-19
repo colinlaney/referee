@@ -12,7 +12,7 @@
     <table id="articles_table">
       <caption>
         <!--h1>Potential referees for 1.5k articles</h1><h2>Level <select onchange="var file='arxivPhys2013_wos_idf_aggregated_cosine_concepts_level-'+this.value+'_experts_spec_BC_A_wos.json'; d3.json(file, show_articles);"-->
-        <h1>Potential referees for 1k articles</h1><h2>dataset BC_A_wos, datapool arxiv2010-2015_wos</h2><h3>Level <select onchange="file='BCon' + this.value + '_sep.json'; d3.json(file, show_articles);">
+        <h1>Potential referees for 1k articles</h1><h2>dataset BC_A_wos, datapool arxiv2010-2015_wos + arxiv_wos</h2><h3>Level <select onchange="file='BCon' + this.value + '_sep.json'; d3.json(file, show_articles);">
         <!-- <h1>Potential referees for 1k articles</h1><h2>dataset BC_A_wos + 10 test articles, datapool arxiv2010-2015_wos + arxiv_wos</h2><h3>Level <select onchange="file='BCon' + this.value + '_idf_sep.json'; d3.json(file, show_articles);"> -->
           <!-- <option value="2015e2015e1s2">BC on arxiv2010-2015 experts 1, specialists 2 idf</option>
           <option value="2015e2s3">BC on arxiv2010-2015 experts 2, specialists 3 idf</option>
@@ -33,6 +33,8 @@
           <option value="ArxivWOSe3s3">BC on arxiv_WOS experts 3, specialists 3 idf</option>
           <option value="ArxivWOSe4s4">BC on arxiv_WOS experts 4, specialists 4 idf</option>
           <option value="ArxivWOSe5s5">BC on arxiv_WOS experts 5, specialists 5 idf</option> -->
+          <option value="Arxiv_wos_e4s4_idf">BC on arxiv experts 4, specialists 4 idf</option>
+          <option value="Arxiv_wos_e5s5_idf">BC on arxiv experts 5, specialists 5 idf</option>
           <option value="Arxiv2010-2015_wos_e3s3_tfidf">BC on arxiv2010-1015 experts 3, specialists 3 tfidf</option>
           <option value="Arxiv2010-2015_wos_e4s4_tfidf">BC on arxiv2010-1015 experts 4, specialists 4 tfidf</option>
           <option value="Arxiv2010-2015_wos_e5s5_tfidf">BC on arxiv2010-1015 experts 5, specialists 5 tfidf</option>
