@@ -235,4 +235,4 @@ d3.json(filename, function(root) {
         ? name(d.parent) + " / " + d.name
         : d.name;
   }
-});
+}, function() { showParentHistogram(node.children[clusters[level]]) });
