@@ -44,7 +44,7 @@ d3.json(search_filename, function(json) {
       var article = article_heat[search.options[search.selectedIndex].value];
       var clusters = article['clusters'];
       var level = document.getElementById("level").innerHTML.split(' ')[1];
-      show_article(article_heat[search.options[search.selectedIndex].value], e ? (e.detail ? e.detail : node.children[clusters[level]]) : node.children[clusters[level]]);
+      show_article(article_heat[search.options[search.selectedIndex].value], e ? (e.detail ? e.detail : (node ? node.children[clusters[level]] : 0)) : (node ? node.children[clusters[level]] : 0));
     } else {
       d3.selectAll('.parent')
         .style('fill', '#bbb')
