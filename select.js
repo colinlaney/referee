@@ -3,11 +3,6 @@
 //var search_filename = "visual/BC_A_wos_ON_arxiv2010-2015_wos_combined_bp-uw_ref-idf-self_articles_details.json";
 var search_filename = filename;
 
-d3.json(concepts_filename, function(json) {
-  concepts_id_to_concepts = json;
-});
-
-
 var article_heat = Object();
 d3.json(search_filename, function(json) {
   Object.keys(json['articles']).map(function(a) {
