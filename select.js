@@ -24,7 +24,9 @@ d3.json(search_filename, function(json) {
   var article = article_heat[search.options[search.selectedIndex].value];
   var clusters = article['clusters'];
   var level = document.getElementById("level").innerHTML.split(' ')[1];
-  showParentHistogram(node.children[clusters[level]]);
+  // if (node) {
+  //   showParentHistogram(node.children[clusters[level]]);
+  // }
 
   function heatmap(e) {
     if(article_heat[search.options[search.selectedIndex].value] != undefined) {
