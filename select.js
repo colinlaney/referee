@@ -1,8 +1,6 @@
 // var filename is declared in treemap.js
 // var search_filename = filename.substring(0, filename.lastIndexOf('.')+1) + "concepts.json";
 var search_filename = "visual/arxiv2010-2015_wos_clusters_of_articles+truncated_vectors.json";
-var concepts_filename = "data/BC_A_wos_concepts.json";
-var concepts_id_to_concepts;
 
 d3.json(concepts_filename, function(json) {
   concepts_id_to_concepts = json;
