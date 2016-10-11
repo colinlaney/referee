@@ -1,0 +1,294 @@
+html {
+    max-width: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+body {
+    margin: 1px;
+}
+
+@keyframes splash {
+  0%  {opacity: 0}
+  25% {opacity: 1}
+  100%  {opacity: 0}
+}
+.level {
+    height: 90px;
+    width: 270px;
+    background: #000;
+    font-size: 48px;
+    color: #FFF;
+    opacity: 0;
+    text-align: center;
+    line-height: 90px;
+    border-radius: 25px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin-left: -135px;
+    margin-top: -45px;
+    animation: splash 1000ms linear;
+    pointer-events:none;
+}
+
+rect[title]:hover:after {
+  content: attr(title);
+    color: yellow;
+    stroke: blue;
+}
+
+
+footer {
+    margin-bottom: 0px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-v{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    width: 400;
+}
+
+.flex-h{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 520;
+}
+
+.group {
+    font-size: 10px;
+}
+
+.group[width<1] {
+    display: none;
+}
+
+
+
+#category {
+    position: relative;
+    flex: 1;
+}
+
+#subcategory {
+    position: relative;
+    flex: 1;
+}
+
+#sunburst {
+    position: relative;
+    flex: 1;
+}
+
+#sunburst svg {
+    display: block;
+    margin: auto;
+}
+
+#sunburst text {
+    dominant-baseline: middle;
+/*    font-size: 1.5em;*/
+}
+
+#breadcrumbs {
+    position: relative;
+    flex: 1;
+}
+
+@keyframes blink {
+  50%   {fill: black}
+}
+
+#container .blink {
+  animation: blink 3s linear infinite;
+}
+
+
+
+.bar {
+  fill: steelblue;
+  stroke: none;
+}
+
+.bar:hover {
+  fill: #0af;
+  stroke: none;
+  transition: 250ms;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
+
+
+table {
+    border-collapse: collapse;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+th, td {
+    padding: 2px;
+    text-align: left;
+}
+
+#article_table {
+    border: 1px solid gray;
+    width: 100%;
+}
+
+.article_concept_highlight {
+  color: red;
+  font-weight: bold;
+}
+.article_concept {
+  color: black;
+}
+
+#article_table .primary_category, .secondary_categories, .article_concepts {
+    white-space:pre;
+}
+
+#article_table tr:nth-child(odd) {
+    background: #eee;
+}
+
+#article_table td {
+    border-left: 1px solid gray;
+}
+
+#concept_table {
+    float: right;
+    width: 195;
+}
+
+#df-concept_table {
+    float: right;
+    width: 195;
+}
+
+
+
+
+#articles {
+    width: 98%;
+}
+
+#df-concepts {
+    /*flex-grow: 1;*/
+    width: 205;
+}
+
+#concepts {
+    /*flex-grow: 1;*/
+    width: 205;
+}
+
+#treemap {
+  width: 550;
+  height: 520;
+  background: #ddd;
+}
+
+text {
+  pointer-events: none;
+}
+
+.grandparent text {
+  font-weight: bold;
+}
+
+rect {
+  fill: none;
+  stroke: #fff;
+}
+
+rect.parent,
+.grandparent rect {
+  stroke-width: 2px;
+}
+
+.grandparent rect {
+  fill: orange;
+}
+
+.grandparent:hover rect {
+  fill: #ee9700;
+}
+
+.children rect.parent,
+.grandparent rect {
+  cursor: pointer;
+}
+
+.children rect.parent {
+  fill: #bbb;
+  fill-opacity: .5;
+  transition: fill 250ms;   // correlates with click delay
+}
+
+.children:hover rect.child {
+  /*fill: #bbb;*/
+  /*stroke: #000;*/
+}
+
+rect.parent:hover {
+  /*stroke: steelblue;*/
+  fill: steelblue;
+}
+
+
+
+::-scrollbar-track {
+	background-color: rgba(0,0,0,0.0);
+    border: 0px;
+    border-radius: 0px;
+}
+
+::-scrollbar * {
+    background:transparent;
+}
+
+::-scrollbar :hover  ::-webkit-scrollbar-thumb {
+    background:rgba(0,0,0,0.5);
+}
+
+::-webkit-scrollbar {
+	width: 5px;
+	background-color: rgba(0,0,0,0.0);
+    border: 0px;
+    border-radius: 0px;
+    background:rgba(0,0,0,0.1);
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: rgba(0,0,0,0.2);
+    border: 0px;
+    border-radius: 2px;
+    background:rgba(0,0,0,0.1);
+  opacity: 1;
+  -webkit-transition: all 2.5s;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  -webkit-transition: all 2.5s;
+}
+
