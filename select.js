@@ -1,7 +1,7 @@
 // var filename is declared in treemap.js
 // var search_filename = filename.substring(0, filename.lastIndexOf('.')+1) + "concepts.json";
 //var search_filename = "visual/BC_A_wos_ON_arxiv2010-2015_wos_combined_bp-uw_ref-idf-self_articles_details.json";
-var search_filename = filename;
+var search_filename = filename + '.json';
 
 var article_heat = Object();
 d3.json(search_filename, function(json) {
