@@ -2,11 +2,6 @@
 // var search_filename = filename.substring(0, filename.lastIndexOf('.')+1) + "concepts.json";
 var search_filename = "visual/arxiv2010-2015_wos_clusters_of_articles+truncated_vectors.json";
 
-d3.json(concepts_filename, function(json) {
-  concepts_id_to_concepts = json;
-});
-
-
 var article_heat = Object();
 d3.json(search_filename, function(json) {
   Object.keys(json['articles']).map(function(a) {
