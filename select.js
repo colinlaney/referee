@@ -1,6 +1,6 @@
 // var filename is declared in treemap.js
 // var search_filename = filename.substring(0, filename.lastIndexOf('.')+1) + "concepts.json";
-var search_filename = "visual/arxiv2010-2015_wos_clusters_of_articles+truncated_vectors.json";
+var search_filename = "visual/arxiv2010-2015_wos_clusters_of_articles+truncated_vectors_and_float+specialists.json";
 
 var article_heat = Object();
 d3.json(search_filename, function(json) {
@@ -47,6 +47,7 @@ d3.json(search_filename, function(json) {
       var clusters = article['clusters'];
       var level = document.getElementById("level").innerHTML.split(' ')[1];
       show_article(article_heat[search.options[search.selectedIndex].value], e ? (e.detail ? e.detail : (node ? node.children[clusters[level]] : 0)) : (node ? node.children[clusters[level]] : 0));
+      show_referee(article_heat[search.options[search.selectedIndex].value], e ? (e.detail ? e.detail : (node ? node.children[clusters[level]] : 0)) : (node ? node.children[clusters[level]] : 0));
     } else {
       d3.selectAll('.parent')
         .style('fill', '#bbb')

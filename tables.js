@@ -207,12 +207,12 @@
 
 
   function show_article(top_articles, cluster){
-  	if ( top_articles ){
+    if ( top_articles ){
         // var top_articles_ = Object.keys(top_articles).map(function(k) { return top_articles[k] });
         // TODO: check the level coincidence
         var level = parents(cluster);//cluster > 0 ? top_articles.clusters.indexOf(cluster) : 0;
         // console.log(cluster, top_articles.clusters, top_articles.clusters.indexOf(cluster));
-        var top_articles_ = Object.keys(top_articles.vectors.tfidf[level]).map(function(key){return key});    // ES6
+        var top_articles_ = (top_articles.vectors.tfidf[level]).map(function(key){return key[0]});    // ES6
         // var top_articles_ = Object.values(top_articles); // ES7
 
         var footer = d3.select("#article");
@@ -246,23 +246,58 @@
             .html(function(d, i) {return '<a href="http://arxiv.org/find/all/1/all:+' + top_articles.authors[i] + '/0/1/0/all/0/1">' + ((top_articles.authors[i]) ? top_articles.authors[i].split('_').join(' ') : '') + '</a>'});
         tr.append("td")
             .attr("id", function(d, i) {return "concept_id_" + (i+1).toString()})
-            // .attr("class", "article_concepts")
+            .attr("title", function(d, i) {return article_heat[search.options[search.selectedIndex].value].vectors.tfidf[level][i][1]})
             .text(function(d) {return node['concepts_id_to_concepts'][d]});
         // tr.append("td")
         //     .attr("id", function(d, i) {return "cats_id_" + (i+1).toString()})
         //     .attr("class", "secondary_categories")
         //     .text(function(d) {return (d.categories).join('\n')});
-        tr.style("opacity", 0)
-            // .transition().duration(DURATION)
-            .style("opacity", 1);
-//        tr.style("background", function(d, i) {return i%2 ? "#fff" : "#eee"});
-	} else {
+        tr.style("opacity", 1);
+    } else {
         var footer = d3.select("#articles");
         footer.select("#article_details")
-            .style("opacity", 1)
-            // .transition()
-            //     .duration(DURATION)
-            .style("opacity", 0)
-        .remove();
+            .remove();
+    };
+  }
+
+
+  function show_referee(top_articles, cluster){
+  	if ( top_articles ){
+        // var top_articles_ = Object.keys(top_articles).map(function(k) { return top_articles[k] });
+        // TODO: check the level coincidence
+        var level = parents(cluster);//cluster > 0 ? top_articles.clusters.indexOf(cluster) : 0;
+        // console.log(cluster, top_articles.clusters, top_articles.clusters.indexOf(cluster));
+        var top_articles_ = Object.keys(article_heat[search.options[search.selectedIndex].value].specialists[level]);    // ES6
+        console.log('referee', level, top_articles_)
+        // var top_articles_ = Object.values(top_articles); // ES7
+
+        var footer = d3.select("#spec");
+        footer.select("#specialists").remove();
+        var table = footer.append("table");
+        table.attr("id", "specialists");
+        table.style("margin-left", "auto");
+        table.style("margin-right", "auto");
+        // table.append("caption").text('Article details');
+        table.selectAll("th")
+            .data(['specialists'])
+            .enter()
+            .append("th")
+            .style("border", "1px solid gray")
+            .style("border-radius", "1px solid gray")
+            .style("text-align", "center")
+            .text(function(d){return d});
+//        table.attr("style", "border:0px solid black");
+        var tr = table.selectAll("tr")
+            .data(top_articles_)
+            .enter()
+            .append("tr");
+        tr.append("td")
+            .attr("id", function(d, i) {return "author_id_" + (i+1).toString()})
+            .html(function(d, i) {return '<a href="http://arxiv.org/find/all/1/all:+' + d + '/0/1/0/all/0/1">' + ((d) ? d.split('_').join(' ') : '') + '</a>'});
+        tr.style("opacity", 1);
+	} else {
+        var footer = d3.select("#articles");
+        footer.select("#specialists")
+            .remove();
     };
   }
