@@ -207,7 +207,7 @@ d3.json(filename, function(root) {
         svg.style("shape-rendering", "crispEdges");
         transitioning = false;
         var eventChange = new CustomEvent('change', {'detail': d});
-      console.log(d)
+        // console.log(d)
         search.dispatchEvent(eventChange);
         showChildHistogram(d);
       });

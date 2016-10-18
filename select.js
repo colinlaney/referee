@@ -1,8 +1,27 @@
 // var filename is declared in treemap.js
 // var search_filename = filename.substring(0, filename.lastIndexOf('.')+1) + "concepts.json";
 var search_filename = "visual/arxiv2010-2015_wos_clusters_of_articles+truncated_vectors_and_float+specialists.json";
+// var search_filename = "visual/arxiv2010-2015_wos_experts_0_all.json";
+
+
+var generalists_list = Array();
+
+function callback(json) {
+    generalists_list.push(json[Object.keys(json)[0]]);
+    console.log(Object.keys(json), generalists_list);
+}
+
+for(var i = 0; i <=5; i++) {
+  d3.json("visual/arxiv2010-2015_wos_experts_" + String(i) + "_all.json", function(json){callback(json)})
+}
+
+console.log('------------', generalists_list)
+
 
 var article_heat = Object();
+
+
+
 d3.json(search_filename, function(json) {
   Object.keys(json['articles']).map(function(a) {
     article_heat[a.toLowerCase()] = json['articles'][a];

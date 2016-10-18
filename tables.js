@@ -244,6 +244,7 @@
         tr.append("td")
             .attr("id", function(d, i) {return "author_id_" + (i+1).toString()})
             .html(function(d, i) {return '<a href="http://arxiv.org/find/all/1/all:+' + top_articles.authors[i] + '/0/1/0/all/0/1">' + ((top_articles.authors[i]) ? top_articles.authors[i].split('_').join(' ') : '') + '</a>'});
+        while(!node){}
         tr.append("td")
             .attr("id", function(d, i) {return "concept_id_" + (i+1).toString()})
             .attr("title", function(d, i) {return article_heat[search.options[search.selectedIndex].value].vectors.tfidf[level][i][1]})
@@ -271,7 +272,7 @@
         console.log('referee', level, top_articles_)
         // var top_articles_ = Object.values(top_articles); // ES7
 
-        var footer = d3.select("#spec");
+        var footer = d3.select("#special");
         footer.select("#specialists").remove();
         var table = footer.append("table");
         table.attr("id", "specialists");
@@ -295,9 +296,40 @@
             .attr("id", function(d, i) {return "author_id_" + (i+1).toString()})
             .html(function(d, i) {return '<a href="http://arxiv.org/find/all/1/all:+' + d + '/0/1/0/all/0/1">' + ((d) ? d.split('_').join(' ') : '') + '</a>'});
         tr.style("opacity", 1);
-	} else {
+
+        footer = d3.select("#general");
+        footer.select("#generalists").remove();
+        table = footer.append("table");
+        table.attr("id", "generalists");
+        table.style("margin-left", "auto");
+        table.style("margin-right", "auto");
+        // table.append("caption").text('Article details');
+        table.selectAll("th")
+            .data(['generalists'])
+            .enter()
+            .append("th")
+            .style("border", "1px solid gray")
+            .style("border-radius", "1px solid gray")
+            .style("text-align", "center")
+            .text(function(d){return d});
+        console.log('gen', generalists_list[level], '=======', cluster)
+        // if(generalists_list) {
+        var generalists = generalists_list[level][parseInt(cluster.name.split()[0], 10)];
+        tr = table.selectAll("tr")
+            .data(Object.keys(generalists).sort(function(a, b){return generalists[b][0] - generalists[a][0]}).slice(0, 5))
+            .enter()
+            .append("tr");
+        tr.append("td")
+            .attr("id", function(d, i) {return "generalist_id_" + (i+1).toString()})
+            .html(function(d, i) {return '<a href="http://arxiv.org/find/all/1/all:+' + d + '/0/1/0/all/0/1">' + ((d) ? d.split('_').join(' ') : '') + '</a>'});
+        tr.style("opacity", 1);
+
+        // }
+    } else {
         var footer = d3.select("#articles");
         footer.select("#specialists")
+            .remove();
+        footer.select("#generalists")
             .remove();
     };
   }
